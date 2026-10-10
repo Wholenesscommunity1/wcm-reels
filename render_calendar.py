@@ -14,6 +14,9 @@ def scenes(r):
     who = CASTL[i % 5]; other = CASTL[(i + 2) % 5]
     pose, prop = "stand", None
     if th == "Recipe": pose, prop = "hold", ("bowl" if i % 2 else "pan")
+    if th == "Recipe" and i > 30:  # Middle Eastern recipe series with our kitchen host
+        who = "layla"; h = r["Hook"].lower()
+        prop = next((p for k, p in (("hummus", "hummus"), ("shakshuka", "shakshuka"), ("tabbouleh", "tabbouleh"), ("soup", "soup")) if k in h), "soup")
     elif th == "Humor": pose, prop = "hold", "phone"
     elif th == "Good habit" and "water" in r["Hook"].lower(): pose, prop = "hold", "water"
     elif th in ("Encouragement", "Community"): pose = "wave"

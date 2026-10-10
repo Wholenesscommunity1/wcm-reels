@@ -13,7 +13,7 @@ def ease(x):
     x = max(0, min(1, x)); return 1 - (1 - x) ** 3
 
 # ---------------- characters ----------------
-def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None):
+def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None, eye=None, highlight=None, shape=None, apron=None):
     S = 2; cw, ch = 700 * S, 1100 * S
     im = Image.new("RGBA", (cw, ch), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
     cx = cw // 2
@@ -28,6 +28,20 @@ def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None):
         for a in range(150, 400, 22):
             x = hx0 + 175*S*math.cos(math.radians(a)); y = 290*S + 170*S*math.sin(math.radians(a))
             d.ellipse([x - 70*S, y - 70*S, x + 70*S, y + 70*S], fill=hair)
+    if hstyle == "curly_long":
+        import random; rnd = random.Random(7)
+        d.rounded_rectangle([hx0 - 190*S, 200*S, hx0 + 190*S, 700*S], 150*S, fill=hair)
+        curls = []
+        for side in (-1, 1):
+            for k in range(11):
+                y = 190*S + k * 52*S
+                x = hx0 + side * (175 + 22 * math.sin(k * 1.3)) * S
+                curls.append((x, y, (62 + 8 * math.cos(k * 2.1)) * S))
+        for (x, y, r) in curls: d.ellipse([x - r, y - r, x + r, y + r], fill=hair)
+        if highlight:
+            for (x, y, r) in curls[1::2]:
+                ox = rnd.uniform(-0.3, 0.3) * r
+                d.arc([x - r*0.7 + ox, y - r*0.7, x + r*0.7 + ox, y + r*0.7], 200, 340, fill=highlight, width=int(9*S))
     # legs
     if pose == "squat":
         L((cx - 70*S, hip_y), (cx - 160*S, 960*S), 62*S, pants); L((cx - 160*S, 960*S), (cx - 110*S, 1060*S), 62*S, pants)
@@ -61,8 +75,18 @@ def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None):
         L(sh, elb[i], arm, shirt); L(elb[i], hands[i], arm, skin)
         r = 30*S; hx, hy = hands[i]; d.ellipse([hx - r, hy - r, hx + r, hy + r], fill=skin)
     # torso
-    d.rounded_rectangle([cx - 150*S, shoulder_y, cx + 150*S, hip_y + 20*S], 90*S, fill=shirt)
+    if shape == "hourglass":
+        d.rounded_rectangle([cx - 152*S, shoulder_y, cx + 152*S, shoulder_y + 230*S], 90*S, fill=shirt)
+        d.polygon([(cx - 152*S, shoulder_y + 150*S), (cx + 152*S, shoulder_y + 150*S), (cx + 112*S, hip_y - 110*S),
+                   (cx + 150*S, hip_y), (cx - 150*S, hip_y), (cx - 112*S, hip_y - 110*S)], fill=shirt)
+        dark = tuple(max(0, c - 28) for c in shirt[:3])
+        d.arc([cx - 150*S, shoulder_y + 40*S, cx + 150*S, shoulder_y + 220*S], 20, 160, fill=dark, width=6*S)
+    else:
+        d.rounded_rectangle([cx - 150*S, shoulder_y, cx + 150*S, hip_y + 20*S], 90*S, fill=shirt)
     d.rounded_rectangle([cx - 150*S, hip_y - 60*S, cx + 150*S, hip_y + 40*S], 40*S, fill=pants)
+    if apron:
+        d.rounded_rectangle([cx - 150*S, hip_y - 100*S, cx + 150*S, hip_y + 85*S], 36*S, fill=apron)
+        d.rectangle([cx - 150*S, hip_y - 104*S, cx + 150*S, hip_y - 78*S], fill=tuple(max(0, c - 30) for c in apron[:3]))
     # neck + head
     d.rounded_rectangle([cx - 38*S, 420*S, cx + 38*S, shoulder_y + 30*S], 30*S, fill=skin)
     hx0, hy0, hr = cx, 300*S, 150*S
@@ -78,12 +102,25 @@ def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None):
             d.ellipse([hx0 - 60*S, hy0 - hr - 50*S, hx0 + 120*S, hy0 - 60*S], fill=hair)
     else:
         d.chord([hx0 - hr - 10*S, hy0 - hr - 40*S, hx0 + hr + 10*S, hy0 + 110*S], 180, 360, fill=hair)
+    if hstyle == "curly_long":
+        for a in range(185, 360, 16):
+            x = hx0 + 150*S*math.cos(math.radians(a)); y = hy0 - 5*S + 165*S*math.sin(math.radians(a))
+            d.ellipse([x - 52*S, y - 52*S, x + 52*S, y + 52*S], fill=hair)
+        if highlight:
+            for a in (205, 250, 300, 335):
+                x = hx0 + 150*S*math.cos(math.radians(a)); y = hy0 - 5*S + 165*S*math.sin(math.radians(a))
+                d.arc([x - 36*S, y - 36*S, x + 36*S, y + 36*S], 200, 340, fill=highlight, width=9*S)
     if hstyle == "fade":
         d.rounded_rectangle([hx0 - 70*S, hy0 + 95*S, hx0 + 70*S, hy0 + 170*S], 50*S, fill=hair)  # beard
     # face
     for e in (-1, 1):
         ex = hx0 + e * 55*S
-        d.ellipse([ex - 14*S, hy0 + 5*S, ex + 14*S, hy0 + 35*S], fill=INK)
+        if eye:
+            d.ellipse([ex - 19*S, hy0 + 0*S, ex + 19*S, hy0 + 40*S], fill=eye)
+            d.ellipse([ex - 9*S, hy0 + 10*S, ex + 9*S, hy0 + 30*S], fill=INK)
+            d.ellipse([ex + 2*S, hy0 + 8*S, ex + 9*S, hy0 + 15*S], fill=WHITE)
+        else:
+            d.ellipse([ex - 14*S, hy0 + 5*S, ex + 14*S, hy0 + 35*S], fill=INK)
         d.arc([ex - 30*S, hy0 - 35*S, ex + 30*S, hy0 - 5*S], 200, 340, fill=hair if hstyle != "fade" else INK, width=8*S)
         d.ellipse([ex + e*15*S - 25*S, hy0 + 55*S, ex + e*15*S + 25*S, hy0 + 85*S], fill=(240, 150, 140, 120))
     mouth_y = hy0 + 70*S if hstyle != "fade" else hy0 + 60*S
@@ -99,6 +136,22 @@ def person(skin, hair, hstyle, shirt, pants, pose="stand", prop=None):
         d.rounded_rectangle([cx - 230*S, 640*S, cx + 230*S, 720*S], 20*S, fill=(120, 125, 130))
         for (x, c) in [(-160, CORAL), (-80, (60, 140, 60)), (0, CORAL), (80, SUN), (160, (60, 140, 60))]:
             d.ellipse([cx + x*S - 40*S, 600*S, cx + x*S + 40*S, 660*S], fill=c)
+    DISH = {"hummus": ((232, 205, 150), [(-60, 668, (190, 60, 40), 14), (20, 662, (190, 60, 40), 12), (70, 672, (70, 130, 60), 16), (-10, 676, (205, 170, 60), 34), (-100, 676, (70, 130, 60), 14)]),
+            "tabbouleh": ((88, 150, 70), [(-90, 668, (215, 60, 50), 20), (-20, 660, (240, 235, 215), 12), (50, 668, (215, 60, 50), 20), (105, 676, (60, 120, 55), 22), (-55, 678, (60, 120, 55), 22), (10, 680, (240, 235, 215), 12)]),
+            "soup": ((226, 150, 60), [(-40, 668, (250, 225, 110), 26), (50, 672, (70, 130, 60), 14), (90, 664, (190, 60, 40), 10), (-95, 676, (70, 130, 60), 12)])}
+    if prop in DISH:
+        fill, tops = DISH[prop]
+        d.ellipse([cx - 170*S, 640*S, cx + 170*S, 715*S], fill=fill)
+        for (x, y, c, r) in tops: d.ellipse([cx + x*S - r*S, y*S - r*S, cx + x*S + r*S, y*S + r*S], fill=c)
+        d.chord([cx - 180*S, 590*S, cx + 180*S, 790*S], 0, 180, fill=WHITE, outline=(210,210,210), width=4*S)
+    if prop == "shakshuka":
+        d.rounded_rectangle([cx + 200*S, 664*S, cx + 330*S, 692*S], 14*S, fill=(70, 72, 78))
+        d.rounded_rectangle([cx - 230*S, 650*S, cx + 230*S, 725*S], 24*S, fill=(70, 72, 78))
+        d.ellipse([cx - 215*S, 618*S, cx + 215*S, 690*S], fill=(200, 60, 45))
+        for x in (-120, 0, 120):
+            d.ellipse([cx + x*S - 52*S, 628*S, cx + x*S + 52*S, 678*S], fill=WHITE)
+            d.ellipse([cx + x*S - 20*S, 640*S, cx + x*S + 20*S, 666*S], fill=(250, 190, 50))
+        for x in (-170, -60, 60, 175): d.ellipse([cx + x*S - 10*S, 640*S, cx + x*S + 10*S, 656*S], fill=(70, 130, 60))
     if prop == "water":
         hx, hy = hands[1]
         d.rounded_rectangle([hx - 45*S, hy - 170*S, hx + 45*S, hy + 40*S], 25*S, fill=(170, 215, 235), outline=(110, 170, 200), width=5*S)
@@ -114,6 +167,8 @@ CAST = {
     "marcus": dict(skin=(120, 78, 55), hair=(28, 22, 20), hstyle="fade", shirt=TEAL, pants=INK),
     "leah":   dict(skin=(240, 205, 180), hair=(170, 110, 60), hstyle="long", shirt=SAGE, pants=INK),
     "dev":    dict(skin=(210, 160, 120), hair=(30, 25, 25), hstyle="short", shirt=SUN, pants=TEAL),
+    "layla":  dict(skin=(214, 164, 122), hair=(24, 20, 22), hstyle="curly_long", shirt=TEAL, pants=INK,
+                   eye=(120, 78, 44), highlight=(176, 120, 70), shape="hourglass", apron=(245, 236, 220)),
     "grace":  dict(skin=(232, 190, 160), hair=(25, 25, 30), hstyle="bun", shirt=(120, 160, 210), pants=INK),
 }
 _cache = {}
