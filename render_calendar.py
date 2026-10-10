@@ -1,6 +1,9 @@
 import csv, sys, re
 from make_reels import *
-rows = list(csv.DictReader(open("out/wcm_30_day_content_calendar.csv", encoding="utf-8")))
+import os
+HERE = os.path.dirname(os.path.abspath(__file__))
+rows = list(csv.DictReader(open(os.path.join(HERE, "wcm_30_day_content_calendar.csv"), encoding="utf-8")))
+OUT = os.environ.get("WCM_OUT", os.path.join(HERE, "reels"))
 CASTL = ["maya", "marcus", "leah", "dev", "grace"]
 ACC = {"Nutrition & Healing": CORAL, "Physical Wellness": TEAL, "Mind & Emotions": SAGE, "Stress Relief & Rest": SAGE,
        "Relationships & Support": CORAL, "Financial Wellness": SUN, "Spirituality & Purpose": SUN,
@@ -28,4 +31,4 @@ def scenes(r):
 if __name__ == "__main__":
     for d in sys.argv[1:]:
         r = rows[int(d) - 1]
-        print(render(f"day{int(d):02d}_{slug(r['Theme']+'_'+r['Dimension'])}", scenes(r), "out"), flush=True)
+        print(render(f"day{int(d):02d}_{slug(r['Theme']+'_'+r['Dimension'])}", scenes(r), OUT), flush=True)

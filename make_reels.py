@@ -264,7 +264,7 @@ def sc_cta(p):
 
 KIND = dict(hook=sc_hook, list=sc_list, move=sc_move, punch=sc_punch, cta=sc_cta)
 
-def render(name, scenes, out_dir):
+def render(name, scenes, out_dir, mood=None):
     fdir = os.path.join(out_dir, "frames_" + name); shutil.rmtree(fdir, ignore_errors=True); os.makedirs(fdir)
     n = 0; cover = None
     for sc in scenes:
@@ -274,10 +274,14 @@ def render(name, scenes, out_dir):
             if cover is None and t >= 1.4: cover = im.copy()
             im.save(os.path.join(fdir, f"{n:05d}.jpg"), quality=92); n += 1
     out = os.path.join(out_dir, name + ".mp4")
+    # original music bed (see music.py) so the reel is never silent
+    from music import make_track, mood_for
+    wav = os.path.join(out_dir, name + "_music.wav")
+    make_track(name, n / FPS, wav, mood or mood_for(name))
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-framerate", str(FPS), "-i", os.path.join(fdir, "%05d.jpg"),
-                    "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-shortest",
+                    "-i", wav, "-shortest",
                     "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-crf", "20", "-movflags", "+faststart",
                     "-c:a", "aac", "-b:a", "128k", "-map_metadata", "-1", out], check=True)
     cover.save(os.path.join(out_dir, name + "_cover.jpg"), quality=92)
-    shutil.rmtree(fdir)
+    shutil.rmtree(fdir); os.remove(wav)
     return out
