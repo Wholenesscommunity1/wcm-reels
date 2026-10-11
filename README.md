@@ -20,3 +20,4 @@ Public hosting for Wholeness Community Marketplace Instagram reels (@wholenessco
 
 ## Run log
 - 2026-10-10: Every reel so far had a silent audio track. Added `music.py`, remuxed all 32 MP4s with music and updated the 30 queued Metricool reels (Oct 11 to Nov 9). Queue was already full through Nov 9, so no new rows were added. Two reels land at 18:00 on Oct 13, 22, 27 and Nov 3 (ours plus a stock-footage reel).
+- 2026-10-11: Checked the queue for Oct 11 to Oct 25. Every day already has one of our reels (queue runs to Nov 9), so no new rows, renders or Metricool posts this run. All 36 MP4s in `reels/` measure about -16 dB mean volume, so none are silent. Days 31 to 34 (Nov 10, 12, 17, 19) are rendered but still not scheduled. The daily 18:00 stock-footage reels still overlap ours at 18:00 on Oct 13, 22, 27 and Nov 3. Analytics for Sep 27 to Oct 11 show only 4 published reels with single-digit reach, too little to steer themes yet.
