@@ -96,12 +96,13 @@
  },
  {
   "day": 12,
-  "date": "2026-10-22T18:00:00",
+  "date": "2026-10-22T12:00:00",
   "text": "Fiber plus protein means steady energy. The vending machine will miss you.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#healthysnacks #afternoonsnack #snackideas #nutrition #wholepersonwellness #wholenesscommunity #wellnessjourney",
   "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day12_recipe_nutrition_healing.mp4",
   "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day12_recipe_nutrition_healing_cover.jpg",
   "hook": "The snack that ends the 3pm vending machine walk",
-  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated"
+  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated",
+  "note": "moved from 18:00 to 12:00 on 2026-10-17 so it no longer posts at the same minute as the daily 18:00 stock-footage reel"
  },
  {
   "day": 13,
@@ -141,12 +142,13 @@
  },
  {
   "day": 17,
-  "date": "2026-10-27T18:00:00",
+  "date": "2026-10-27T12:00:00",
   "text": "Five minutes the night before. Zero excuses in the morning.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#overnightoats #mealprep #easybreakfast #healthybreakfast #wholepersonwellness #wholenesscommunity #wellnessjourney",
   "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day17_recipe_nutrition_healing.mp4",
   "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day17_recipe_nutrition_healing_cover.jpg",
   "hook": "Breakfast for people who are late. Always.",
-  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated"
+  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated",
+  "note": "moved from 18:00 to 12:00 on 2026-10-17 so it no longer posts at the same minute as the daily 18:00 stock-footage reel"
  },
  {
   "day": 18,
@@ -204,12 +206,13 @@
  },
  {
   "day": 24,
-  "date": "2026-11-03T18:00:00",
+  "date": "2026-11-03T12:00:00",
   "text": "Mediterranean, no cooking, and it keeps in the fridge for days.\n\nFind nutrition support on Wholeness Community at wholenesscommunitymarketplace.com (link in bio).\n\n#chickpeasalad #healthylunch #mediterraneandiet #mealprep #wholepersonwellness #wholenesscommunity #wellnessjourney",
   "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day24_recipe_nutrition_healing.mp4",
   "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day24_recipe_nutrition_healing_cover.jpg",
   "hook": "The 5-minute lunch that beats the drive-thru",
-  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated"
+  "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated",
+  "note": "moved from 18:00 to 12:00 on 2026-10-17 so it no longer posts at the same minute as the daily 18:00 stock-footage reel"
  },
  {
   "day": 25,
@@ -264,5 +267,49 @@
   "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day30_community_mind_emotions_cover.jpg",
   "hook": "30 days of small steps. What's yours?",
   "audio": "original music track added 2026-10-10 (commit 9db292f), Metricool post updated"
+ },
+ {
+  "day": 31,
+  "date": "2026-11-10T18:00:00",
+  "text": "Creamy hummus from one can of chickpeas. Blend longer than you think you need to and add the cold water slowly. Finish with olive oil and a pinch of paprika. Save it for snack time.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#hummus #middleeasternfood #easyrecipes #healthysnacks #wholepersonwellness #wholenesscommunity #wellnessjourney",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day31_recipe_nutrition_healing.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day31_recipe_nutrition_healing_cover.jpg",
+  "hook": "Hummus that takes 5 minutes and beats the store tub",
+  "audio": "original music track (music.py), about -16 dB mean volume",
+  "metricool_uuid": "4371601160293993657",
+  "scheduled_on": "2026-10-17"
+ },
+ {
+  "day": 32,
+  "date": "2026-11-12T18:00:00",
+  "text": "Eggs poached in spiced tomato sauce, straight from the pan with warm bread. Cook the eggs until the whites are set. Protein, vegetables and one pan to wash.\n\nFind nutrition support on Wholeness Community at wholenesscommunitymarketplace.com (link in bio).\n\n#shakshuka #middleeasternfood #onepanmeal #easydinner #wholepersonwellness #wholenesscommunity #wellnessjourney",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day32_recipe_nutrition_healing.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day32_recipe_nutrition_healing_cover.jpg",
+  "hook": "Shakshuka: one pan, a few eggs, zero stress",
+  "audio": "original music track (music.py), about -16 dB mean volume",
+  "metricool_uuid": "-5101946327039589464",
+  "scheduled_on": "2026-10-17"
+ },
+ {
+  "day": 33,
+  "date": "2026-11-17T18:00:00",
+  "text": "Fresh, bright and better the next day. Chop the parsley fine and be generous with the lemon. Need it gluten free? Swap the bulgur for cooked quinoa.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#tabbouleh #middleeasternfood #saladrecipe #freshfood #wholepersonwellness #wholenesscommunity #wellnessjourney",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day33_recipe_nutrition_healing.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day33_recipe_nutrition_healing_cover.jpg",
+  "hook": "Tabbouleh: the salad that is mostly parsley and proud of it",
+  "audio": "original music track (music.py), about -16 dB mean volume",
+  "metricool_uuid": "5441135512260921178",
+  "scheduled_on": "2026-10-17"
+ },
+ {
+  "day": 34,
+  "date": "2026-11-19T18:00:00",
+  "text": "Red lentils cook fast and need no soaking. Twenty minutes, one pot, plenty of fiber and plant protein. A squeeze of lemon at the end makes it.\n\nFind nutrition support on Wholeness Community at wholenesscommunitymarketplace.com (link in bio).\n\n#lentilsoup #middleeasternfood #souprecipe #plantprotein #wholepersonwellness #wholenesscommunity #wellnessjourney",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day34_recipe_nutrition_healing.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/reels/day34_recipe_nutrition_healing_cover.jpg",
+  "hook": "Red lentil soup: five ingredients, one pot, very cozy",
+  "audio": "original music track (music.py), about -16 dB mean volume",
+  "metricool_uuid": "-6964149466936491574",
+  "scheduled_on": "2026-10-17"
  }
 ]
