@@ -19,10 +19,11 @@ PENTA = [0, 2, 4, 7, 9]
 # progressions as scale degrees (0 = I, 4 = V, 5 = vi, 3 = IV, 1 = ii)
 PROGS = [[0, 4, 5, 3], [0, 5, 3, 4], [5, 3, 0, 4], [0, 3, 5, 4], [0, 3, 0, 4], [3, 0, 4, 5]]
 MOODS = {
-    "bright": dict(bpm=(104, 112), keys=[0, 2, 5, 7], perc=0.9, pad=0.5, arp=1.0, lead=0.8),
-    "drive":  dict(bpm=(116, 124), keys=[2, 4, 7, 9], perc=1.2, pad=0.4, arp=1.0, lead=0.7),
-    "calm":   dict(bpm=(80, 88),   keys=[0, 3, 5, 10], perc=0.35, pad=1.0, arp=0.8, lead=0.6),
-    "warm":   dict(bpm=(92, 100),  keys=[0, 5, 7, 9], perc=0.65, pad=0.8, arp=0.9, lead=0.7),
+    "bright": dict(bpm=(110, 118), keys=[0, 2, 5, 7], perc=1.0, pad=0.5, arp=1.0, lead=0.85),   # humor, light habits
+    "upbeat": dict(bpm=(114, 122), keys=[0, 5, 7, 2], perc=1.1, pad=0.45, arp=1.1, lead=0.6),   # recipes: bouncy, sits under a voice
+    "drive":  dict(bpm=(126, 134), keys=[2, 4, 7, 9], perc=1.35, pad=0.35, arp=1.0, lead=0.75), # workouts
+    "calm":   dict(bpm=(86, 94),   keys=[0, 3, 5, 10], perc=0.4, pad=1.0, arp=0.8, lead=0.6),   # rest, encouragement
+    "warm":   dict(bpm=(100, 108), keys=[0, 5, 7, 9], perc=0.75, pad=0.8, arp=0.9, lead=0.75),  # habits, community
 }
 
 
@@ -176,15 +177,24 @@ def make_track(name, dur, path, mood="warm"):
     return dict(bpm=bpm, key=key, prog=prog, mood=mood)
 
 
-THEME_MOOD = {"Recipe": "bright", "Humor": "bright", "Workout": "drive", "Good habit": "warm",
+THEME_MOOD = {"Recipe": "upbeat", "Humor": "bright", "Workout": "drive", "Good habit": "warm",
               "Encouragement": "calm", "Community": "warm"}
+
+
+def mood_for_row(theme, dimension=""):
+    """Match the track to the post: theme sets the energy, a restful dimension softens it."""
+    m = THEME_MOOD.get(theme, "warm")
+    if m == "warm" and any(k in dimension for k in ("Stress", "Rest", "Spirituality")): return "calm"
+    if m == "warm" and any(k in dimension for k in ("Physical", "Home")): return "bright"
+    return m
 
 
 def mood_for(name):
     n = name.lower()
     if any(k in n for k in ("workout", "commercial_break")): return "drive"
-    if any(k in n for k in ("recipe", "humor", "berry", "salmon", "monday")): return "bright"
-    if any(k in n for k in ("encouragement", "stress_relief", "rest")): return "calm"
+    if any(k in n for k in ("recipe", "berry", "salmon")): return "upbeat"
+    if any(k in n for k in ("humor", "monday")): return "bright"
+    if any(k in n for k in ("encouragement", "stress_relief", "rest", "spiritual")): return "calm"
     return "warm"
 
 
