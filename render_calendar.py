@@ -23,7 +23,7 @@ def scenes(r):
     if th == "Recipe" and i > 30:  # Middle Eastern recipe series with our kitchen host
         who = "layla"; h = r["Hook"].lower()
         prop = next((p for k, p in (("hummus", "hummus"), ("shakshuka", "shakshuka"), ("tabbouleh", "tabbouleh"), ("soup", "soup"),
-                                    ("oats", "oats"), ("taco", "tacos"), ("stir fry", "pan"), ("sheet pan", "pan"), ("muffin", "pan"),
+                                    ("oats", "oats"), ("oatmeal", "oats"), ("chili", "soup"), ("shrimp", "pan"), ("taco", "tacos"), ("stir fry", "pan"), ("sheet pan", "pan"), ("muffin", "pan"),
                                     ("pancake", "bowl"), ("potato", "bowl"), ("bites", "bowl")) if k in h), prop)
     elif th == "Humor": pose, prop = "hold", "phone"
     elif th == "Good habit" and "water" in r["Hook"].lower(): pose, prop = "hold", "water"
