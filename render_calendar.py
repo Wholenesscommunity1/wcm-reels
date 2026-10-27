@@ -23,7 +23,7 @@ def scenes(r):
     if th == "Recipe" and i > 30:  # Middle Eastern recipe series with our kitchen host
         who = "layla"; h = r["Hook"].lower()
         prop = next((p for k, p in (("hummus", "hummus"), ("shakshuka", "shakshuka"), ("tabbouleh", "tabbouleh"), ("soup", "soup"),
-                                    ("oats", "oats"), ("oatmeal", "oats"), ("chili", "soup"), ("shrimp", "pan"), ("taco", "tacos"), ("stir fry", "pan"), ("sheet pan", "pan"), ("muffin", "pan"),
+                                    ("oats", "oats"), ("oatmeal", "oats"), ("chili", "soup"), ("curry", "soup"), ("shrimp", "pan"), ("cod", "pan"), ("fried rice", "bowl"), ("taco", "tacos"), ("stir fry", "pan"), ("sheet pan", "pan"), ("muffin", "pan"),
                                     ("pancake", "bowl"), ("potato", "bowl"), ("bites", "bowl")) if k in h), prop)
     elif th == "Humor": pose, prop = "hold", "phone"
     elif th == "Good habit" and "water" in r["Hook"].lower(): pose, prop = "hold", "water"
@@ -33,8 +33,10 @@ def scenes(r):
                  "Encouragement": r["Dimension"], "Community": "Community"}[th]
     items = [r["Line 1"], r["Line 2"], r["Line 3"], r["Line 4"]]
     voiced = th == "Recipe"                  # the cook talks you through every recipe
+    sub = SUB.get(th, "")
+    if th == "Workout" and "jug" in r["Hook"].lower(): sub = "Just a water jug. Go at your own pace."
     hook = dict(kind="hook", dur=2.2, accent=a, badge=badge_txt, who=who, pose=("flex" if th == "Workout" else pose), prop=prop,
-                outfit=outfit, text=r["Hook"], sub=SUB.get(th, ""), sticker=STICKER.get(th))
+                outfit=outfit, text=r["Hook"], sub=sub, sticker=STICKER.get(th))
     lst = dict(kind="list", dur=4.4, accent=a, badge=r["Dimension"], title=("You need:" if th == "Recipe" else "Try this:"), who=who,
                pose=("arms_up" if th == "Workout" else pose), prop=prop, outfit=outfit, items=items)
     punch = dict(kind="punch", dur=2.0, accent=(CORAL if a != CORAL else TEAL), text=r["Punchline"], sub="", who=who, pose="wave", outfit=outfit,
