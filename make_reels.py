@@ -316,8 +316,9 @@ def sc_hook(p):
         spr = sprite(p["who"], p.get("pose", "stand"), p.get("prop"), 0.95, p.get("outfit"))
         place(im, spr, W/2, 800 + (1 - a) * 260, t)
         ye = text_block(im, p["text"], font("Bold", 76), 250, INK, t / 0.3, maxw=940, shadow=WHITE + (160,))
-        if p.get("sub"): text_block(im, p["sub"], font("Medium", 42), ye + 40, shade(p["accent"], 0.35), (t - 0.35) / 0.3, box=WHITE + (200,))
-        if p.get("sticker"): sticker(im, p["sticker"], PARTNER.get(p["accent"], SUN) if p["accent"] != SUN else CORAL, 850, 800, t - 0.5)
+        if p.get("sub"): ye = text_block(im, p["sub"], font("Medium", 42), ye + 40, shade(p["accent"], 0.35), (t - 0.35) / 0.3, box=WHITE + (200,))
+        # sticker sits at 800 unless a long hook pushes the sub line that far, then it drops below it
+        if p.get("sticker"): sticker(im, p["sticker"], PARTNER.get(p["accent"], SUN) if p["accent"] != SUN else CORAL, 850, max(800, ye + 105), t - 0.5)
         wordmark(im, small=True)
         return im
     return f
