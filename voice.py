@@ -52,7 +52,7 @@ def spoken(text):
     return s
 
 
-def say(text, path, voice=VOICE, speed=0.96):
+def say(text, path, voice=VOICE, speed=0.87):   # 0.87 reads a touch brisker than the old 0.96 so narrated recipes stay under about 50 s
     """Synthesize text to a 44.1 kHz mono wav at path. Returns the duration in seconds."""
     raw = path + ".raw.wav"
     subprocess.run(["python3", "-m", "piper", "-m", model_path(voice), "-f", raw, "--length-scale", str(speed), "--", spoken(text)],
