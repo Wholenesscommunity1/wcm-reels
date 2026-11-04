@@ -27,6 +27,7 @@ def scenes(r):
                                     ("burrito", "pan"), ("quesadilla", "pan"), ("tenders", "pan"), ("chia", "bowl"), ("pudding", "bowl"),
                                     ("meatball", "pan"), ("sloppy", "pan"), ("feta", "pan"),
                                     ("greek chicken", "bowl"), ("chicken and rice", "soup"), ("egg roll", "pan"),
+                                    ("salsa chicken", "soup"), ("slow cooker", "soup"), ("caesar", "bowl"), ("wrap", "bowl"), ("beef", "pan"), ("broccoli", "pan"),
                                     ("bean", "pan"), ("kale", "pan"),
                                     ("oats", "oats"), ("oatmeal", "oats"), ("chili", "soup"), ("curry", "soup"), ("shrimp", "pan"), ("cod", "pan"), ("fried rice", "bowl"), ("taco", "tacos"), ("stir fry", "pan"), ("sheet pan", "pan"), ("muffin", "pan"),
                                     ("sausage", "pan"), ("frittata", "pan"), ("tuna", "bowl"), ("salad", "bowl"),
@@ -49,6 +50,7 @@ def scenes(r):
     if th == "Workout" and "backpack" in r["Hook"].lower(): sub = "Just a backpack and a few books. Go at your own pace."
     if th == "Workout" and "balance" in r["Hook"].lower(): sub = "Just a counter to hold. Go at your own pace."
     if th == "Workout" and "grocery" in r["Hook"].lower(): sub = "Just two grocery bags. Go at your own pace."
+    if th == "Workout" and "teeth" in r["Hook"].lower(): sub = "Just your toothbrush and the sink. Go at your own pace."
     hook = dict(kind="hook", dur=2.2, accent=a, badge=badge_txt, who=who, pose=("flex" if th == "Workout" else pose), prop=prop,
                 outfit=outfit, text=r["Hook"], sub=sub, sticker=STICKER.get(th))
     lst = dict(kind="list", dur=4.4, accent=a, badge=r["Dimension"], title=("You need:" if th == "Recipe" else "The list:" if th == "Humor" else "Try this:"), who=who,

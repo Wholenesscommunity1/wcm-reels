@@ -339,10 +339,15 @@ def sc_list(p):
             d.ellipse([112 + rowx, y + 35, 192 + rowx, y + 115], fill=p["accent"])
             num = str(i + 1); fn = font("Bold", 44); tw = d.textlength(num, font=fn)
             d.text((152 + rowx - tw/2, y + 42), num, font=fn, fill=WHITE)
-            lines = wrap(d, item, font("Medium", 40), W - 320)
-            ty = y + 75 - 26 * len(lines)
-            for j, l in enumerate(lines[:2]):
-                d.text((222 + rowx, ty + j * 50), l, font=font("Medium", 40), fill=INK + (int(255 * ease(lt)),))
+            # long items (narrated recipe steps) step down to a smaller face so the whole line fits the card
+            for fs, maxl, lh in ((40, 2, 50), (34, 3, 42), (30, 4, 36)):
+                fn = font("Medium", fs); lines = wrap(d, item, fn, W - 320)
+                if len(lines) <= maxl: break
+            else:
+                lines = lines[:4]; lines[-1] = lines[-1].rsplit(" ", 1)[0] + "..."
+            ty = y + (150 - lh * len(lines)) / 2 - 2
+            for j, l in enumerate(lines):
+                d.text((222 + rowx, ty + j * lh), l, font=fn, fill=INK + (int(255 * ease(lt)),))
             y += 175
         if p.get("who"):
             spr = sprite(p["who"], p.get("pose", "stand"), p.get("prop"), 0.62, p.get("outfit"))
