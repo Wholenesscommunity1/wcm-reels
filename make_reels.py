@@ -334,21 +334,23 @@ def sc_list(p):
             if lt <= 0: break
             a = pop(lt); d = ImageDraw.Draw(im, "RGBA")
             rowx = int((1 - a) * 160)
-            d.rounded_rectangle([70 + rowx, y, W - 70 + rowx, y + 150], 40, fill=WHITE + (int(240 * ease(lt)),))
-            d.rounded_rectangle([70 + rowx, y, 92 + rowx, y + 150], 10, fill=p["accent"])
-            d.ellipse([112 + rowx, y + 35, 192 + rowx, y + 115], fill=p["accent"])
-            num = str(i + 1); fn = font("Bold", 44); tw = d.textlength(num, font=fn)
-            d.text((152 + rowx - tw/2, y + 42), num, font=fn, fill=WHITE)
-            # long items (narrated recipe steps) step down to a smaller face so the whole line fits the card
-            for fs, maxl, lh in ((40, 2, 50), (34, 3, 42), (30, 4, 36)):
+            # long items (narrated recipe steps) step down to a smaller face so the whole line fits the card;
+            # a five-line step at the smallest face gets a taller card instead of being cut off
+            for fs, maxl, lh in ((40, 2, 50), (34, 3, 42), (30, 4, 36), (28, 5, 32)):
                 fn = font("Medium", fs); lines = wrap(d, item, fn, W - 320)
                 if len(lines) <= maxl: break
             else:
-                lines = lines[:4]; lines[-1] = lines[-1].rsplit(" ", 1)[0] + "..."
-            ty = y + (150 - lh * len(lines)) / 2 - 2
+                lines = lines[:5]; lines[-1] = lines[-1].rsplit(" ", 1)[0] + "..."
+            ch = max(150, lh * len(lines) + 24)
+            d.rounded_rectangle([70 + rowx, y, W - 70 + rowx, y + ch], 40, fill=WHITE + (int(240 * ease(lt)),))
+            d.rounded_rectangle([70 + rowx, y, 92 + rowx, y + ch], 10, fill=p["accent"])
+            d.ellipse([112 + rowx, y + ch/2 - 40, 192 + rowx, y + ch/2 + 40], fill=p["accent"])
+            num = str(i + 1); fnum = font("Bold", 44); tw = d.textlength(num, font=fnum)
+            d.text((152 + rowx - tw/2, y + ch/2 - 33), num, font=fnum, fill=WHITE)
+            ty = y + (ch - lh * len(lines)) / 2 - 2
             for j, l in enumerate(lines):
                 d.text((222 + rowx, ty + j * lh), l, font=fn, fill=INK + (int(255 * ease(lt)),))
-            y += 175
+            y += ch + 25
         if p.get("who"):
             spr = sprite(p["who"], p.get("pose", "stand"), p.get("prop"), 0.62, p.get("outfit"))
             place(im, spr, W - 250, H - spr.height - 130, t)
