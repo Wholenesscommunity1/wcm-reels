@@ -297,9 +297,11 @@ def sticker(im, text, color, x, y, t=1.0, angle=-12):
     im.paste(lab, (int(x - lab.width / 2), int(y - lab.height / 2)), lab)
 
 def wordmark(im, y=1780, small=False):
-    d = ImageDraw.Draw(im); f = font("Bold", 34 if small else 40)
+    d = ImageDraw.Draw(im, "RGBA"); f = font("Bold", 34 if small else 40)
     s = "Wholeness Community"; tw = d.textlength(s, font=f)
     cx, cy, r = W/2 - tw/2 - 40, y + 26, 24
+    if small:   # soft pill so the mark stays legible when a full-size character's feet reach the bottom of the frame
+        d.rounded_rectangle([cx - r - 22, y - 12, W/2 + tw/2 + 32, y + 62], 37, fill=WHITE + (205,))
     pts = [(cx + r*math.cos(math.radians(60*k+30)), cy + r*math.sin(math.radians(60*k+30))) for k in range(6)]
     d.polygon(pts, fill=shade(TEAL, 0.2))
     d.text((W/2 - tw/2 + 5, y), s, font=f, fill=shade(TEAL, 0.2))
