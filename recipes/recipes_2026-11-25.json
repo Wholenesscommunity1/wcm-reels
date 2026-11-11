@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2026-11-25",
+  "slug": "maple_orange_cranberry_sauce",
+  "title": "Maple Orange Cranberry Sauce",
+  "cuisine": "American (Thanksgiving)",
+  "meal": "Dinner",
+  "servings": "10 (about 2 1/2 cups)",
+  "prep": "5 min",
+  "cook": "15 min",
+  "hook": "Homemade cranberry sauce in 15 minutes with no refined sugar: make it tonight, it tastes better tomorrow",
+  "benefit": "Fiber and vitamin C from whole cranberries, with far less added sugar than canned",
+  "ingredients": [
+   "12 oz fresh or frozen cranberries (one bag, about 3 cups)",
+   "1/3 cup pure maple syrup",
+   "1 tbsp orange zest (from 1 orange)",
+   "1/2 cup fresh orange juice (1 to 2 oranges)",
+   "1/4 cup water",
+   "1 cinnamon stick (or 1/2 tsp ground cinnamon)",
+   "1 tsp grated fresh ginger (optional)",
+   "Pinch of salt"
+  ],
+  "key_ingredients": [
+   "12 oz cranberries",
+   "1/3 cup maple syrup",
+   "1 orange, zest and juice",
+   "1/4 cup water",
+   "1 cinnamon stick",
+   "Pinch of salt"
+  ],
+  "steps": [
+   "Rinse the cranberries and pick out any soft ones. Zest the orange before you juice it.",
+   "Put the cranberries, maple syrup, orange zest, orange juice, water, cinnamon stick, ginger and salt in a medium saucepan over medium-high heat.",
+   "Bring to a boil, then lower to a simmer and cook 10 to 12 minutes, stirring now and then, until most of the berries have popped and the sauce thickens.",
+   "Mash a few berries against the side of the pan for a thicker sauce, or leave it chunky. Remove the cinnamon stick.",
+   "Cool 20 minutes. It thickens more as it cools. Spoon into a jar.",
+   "Make ahead: it keeps 10 days in the fridge and is even better after a day. Serve cold or at room temperature."
+  ],
+  "vo_steps": [
+   "Rinse the cranberries and zest the orange before you juice it.",
+   "Everything goes into one saucepan over medium-high heat.",
+   "Boil, then simmer 10 to 12 minutes until the berries pop and it thickens.",
+   "Mash a few berries for a thicker sauce and pull out the cinnamon stick.",
+   "Cool 20 minutes, then spoon it into a jar.",
+   "It keeps 10 days in the fridge and tastes even better the next day."
+  ],
+  "person": "a Black American man in his late 40s with deep brown skin, a strong athletic build and a close-cropped salt-and-pepper beard, wearing a fitted burgundy henley with the sleeves pushed up and a tan canvas apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a glass jar and a small white bowl of glossy homemade cranberry sauce, deep ruby red with whole popped cranberries, curls of orange zest and a cinnamon stick on top, fresh oranges, a scatter of raw cranberries and a small pitcher of maple syrup beside it on a rustic wooden Thanksgiving table with a linen napkin, bright natural window light, vivid colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling warmly while stirring a saucepan of bubbling red cranberry sauce with a wooden spoon in a bright modern kitchen, a bowl of fresh cranberries, a halved orange, a zester and a small bottle of maple syrup on the counter, natural window light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a warmly set Thanksgiving table and smiling as he spoons glossy homemade cranberry sauce from a glass jar onto his plate of roast turkey and green vegetables, soft natural light, joyful and relaxed, natural hands with five fingers, no text",
+  "hashtags": "#cranberrysauce #thanksgivingrecipes #healthythanksgiving #makeahead #norefinedsugar #holidaysides #maplesyrup #thanksgivingsides #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
