@@ -1,0 +1,60 @@
+[
+ {
+  "date": "2026-11-26",
+  "slug": "turkey_cranberry_lettuce_wraps",
+  "title": "Day-After Turkey Cranberry Lettuce Wraps",
+  "cuisine": "American (Thanksgiving leftovers)",
+  "meal": "Lunch",
+  "servings": "4 (8 wraps)",
+  "prep": "10 min",
+  "cook": "none",
+  "hook": "Tomorrow's lunch is already in your fridge: turkey cranberry lettuce wraps, 10 minutes, no cooking",
+  "benefit": "Lean protein from the turkey, fiber and crunch from the apple and celery, and no food coma",
+  "ingredients": [
+   "2 cups chopped leftover roast turkey (about 10 oz), skin removed",
+   "8 large butter lettuce or romaine heart leaves",
+   "1 crisp apple (Honeycrisp or Granny Smith), cut into matchsticks",
+   "2 celery stalks, thinly sliced",
+   "2 tbsp finely chopped red onion (optional)",
+   "1/2 cup leftover cranberry sauce",
+   "1/4 cup toasted pecans, roughly chopped",
+   "Sauce: 1/2 cup plain Greek yogurt",
+   "1 tbsp fresh lemon juice",
+   "1 tbsp chopped fresh dill (or 1 tsp dried)",
+   "1 tsp Dijon mustard",
+   "1/4 tsp salt and 1/4 tsp black pepper"
+  ],
+  "key_ingredients": [
+   "2 cups leftover turkey",
+   "8 lettuce leaves",
+   "1 crisp apple",
+   "2 celery stalks",
+   "1/2 cup cranberry sauce",
+   "1/2 cup Greek yogurt",
+   "1/4 cup pecans"
+  ],
+  "steps": [
+   "Make the sauce: stir the Greek yogurt, lemon juice, dill, Dijon, salt and pepper together in a small bowl.",
+   "In a medium bowl, toss the chopped turkey with the apple, celery, red onion and about half of the yogurt sauce until everything is lightly coated.",
+   "Rinse the lettuce leaves, pat them dry and lay them out on a platter like little cups.",
+   "Spoon about 1/3 cup of the turkey mixture into each leaf, then top each one with a spoonful of cranberry sauce and a sprinkle of pecans.",
+   "Drizzle the rest of the yogurt sauce over the top and serve right away. Eat leftover turkey within 3 to 4 days of cooking it.",
+   "Make ahead: the turkey filling keeps 2 days in the fridge. Fill the lettuce just before eating so it stays crisp."
+  ],
+  "vo_steps": [
+   "Stir together the yogurt, lemon juice, dill, Dijon, salt and pepper.",
+   "Toss the turkey with the apple, celery, onion and half of the sauce.",
+   "Rinse and dry the lettuce leaves and lay them out like little cups.",
+   "Fill each leaf with turkey, then a spoonful of cranberry sauce and some pecans.",
+   "Drizzle on the rest of the sauce and eat right away.",
+   "The filling keeps two days in the fridge. Fill the lettuce just before you eat."
+  ],
+  "person": "a Filipino-American woman in her early 50s with warm golden-tan skin, a healthy curvy build and shoulder-length black hair with a few silver strands, wearing a fitted rust-orange knit top and a striped linen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a white platter of crisp butter lettuce cups filled with chopped roast turkey, ruby red cranberry sauce, thin apple matchsticks, sliced celery and toasted pecans, drizzled with a creamy yogurt dill sauce, a small bowl of extra cranberry sauce and a halved red apple beside it on a light wooden table with a linen napkin, bright natural window light, vivid colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling warmly as she spoons chopped roast turkey mixed with apple and celery into crisp butter lettuce cups on a wooden board in a bright modern kitchen, a small bowl of ruby red cranberry sauce, a bowl of creamy yogurt dill sauce, a halved red apple and toasted pecans on the counter, natural window light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a sunny dining table the day after Thanksgiving and smiling as she holds up a crisp butter lettuce wrap filled with roast turkey, ruby red cranberry sauce, apple matchsticks and pecans, a platter of more lettuce wraps and a glass of sparkling water in front of her, soft natural light, joyful and relaxed, natural hands with five fingers, no text",
+  "hashtags": "#thanksgivingleftovers #leftoverturkey #lettucewraps #healthylunch #nocook #10minutemeals #highprotein #blackfridaylunch #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "canva_media": {"hero": "MAHar7ecDE8", "cook": "MAHar2xPXqM", "enjoy": "MAHar6cAJtY"}
+ }
+]

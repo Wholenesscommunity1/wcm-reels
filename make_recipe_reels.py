@@ -150,8 +150,9 @@ def ingredients_overlay(im, r, t, T, reveal):
         d.text((x, y0 + i * lh + 12), "", font=f, fill=INK, anchor="lm")
         lines = wrap(d, it, f, W - 240)
         outlined(d, (x + 50, y0 + i * lh - 2), lines[0], f, fill=WHITE, width=6)
-    pill(d, f"{r['servings']} servings" if r["servings"][0].isdigit() and "serving" not in r["servings"] else r["servings"],
-         font("Medium", 32), W / 2, SAFE_BOT - 120, (0, 0, 0, 160))
+    sv = r["servings"]
+    sv = ("Serves " + sv.replace(" (", ", ").rstrip(")")) if sv[0].isdigit() and "serving" not in sv else sv   # "4 (8 wraps)" reads "Serves 4, 8 wraps"
+    pill(d, sv, font("Medium", 32), W / 2, SAFE_BOT - 120, (0, 0, 0, 160))
     return im
 
 def step_overlay(im, r, idx, text, t, T):
