@@ -2661,5 +2661,28 @@
   "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
   "post_id": 424083840,
   "uuid": "-6576826405491553951"
+ },
+ {
+  "day": 197,
+  "task": "daily recipe reels",
+  "date": "2026-11-26T16:00:00",
+  "hook": "Tomorrow's lunch is already in your fridge: turkey cranberry lettuce wraps, 10 minutes, no cooking",
+  "title": "Day-After Turkey Cranberry Lettuce Wraps",
+  "cuisine": "American (Thanksgiving leftovers)",
+  "meal": "Lunch",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-26/2026-11-26_turkey_cranberry_lettuce_wraps.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-26/2026-11-26_turkey_cranberry_lettuce_wraps_cover.jpg",
+  "text": "Tomorrow's lunch is already in your fridge: turkey cranberry lettuce wraps, 10 minutes, no cooking\n\nLean protein from the turkey, fiber and crunch from the apple and celery, and no food coma.\n\nDay-After Turkey Cranberry Lettuce Wraps\nServes 4 (8 wraps). Prep 10 min, cook none.\n\nIngredients:\n- 2 cups chopped leftover roast turkey (about 10 oz), skin removed\n- 8 large butter lettuce or romaine heart leaves\n- 1 crisp apple (Honeycrisp or Granny Smith), cut into matchsticks\n- 2 celery stalks, thinly sliced\n- 2 tbsp finely chopped red onion (optional)\n- 1/2 cup leftover cranberry sauce\n- 1/4 cup toasted pecans, roughly chopped\n- Sauce: 1/2 cup plain Greek yogurt\n- 1 tbsp fresh lemon juice\n- 1 tbsp chopped fresh dill (or 1 tsp dried)\n- 1 tsp Dijon mustard\n- 1/4 tsp salt and 1/4 tsp black pepper\n\nSteps:\n1. Make the sauce: stir the Greek yogurt, lemon juice, dill, Dijon, salt and pepper together in a small bowl.\n2. In a medium bowl, toss the chopped turkey with the apple, celery, red onion and about half of the yogurt sauce until everything is lightly coated.\n3. Rinse the lettuce leaves, pat them dry and lay them out on a platter like little cups.\n4. Spoon about 1/3 cup of the turkey mixture into each leaf, then top each one with a spoonful of cranberry sauce and a sprinkle of pecans.\n5. Drizzle the rest of the yogurt sauce over the top and serve right away. Eat leftover turkey within 3 to 4 days of cooking it.\n6. Make ahead: the turkey filling keeps 2 days in the fridge. Fill the lettuce just before eating so it stays crisp.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#thanksgivingleftovers #leftoverturkey #lettucewraps #healthylunch #nocook #10minutemeals #highprotein #blackfridaylunch #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Day-After Turkey Cranberry Lettuce Wraps, 10 minutes, no cooking",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-12",
+  "audio": "music.py upbeat bed plus Piper narration, 45.0 s, -16.8 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 425344882,
+  "uuid": "828743840683409574"
  }
 ]
