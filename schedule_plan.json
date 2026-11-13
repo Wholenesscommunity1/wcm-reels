@@ -2684,5 +2684,28 @@
   "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
   "post_id": 425344882,
   "uuid": "828743840683409574"
+ },
+ {
+  "day": 198,
+  "task": "daily recipe reels",
+  "date": "2026-11-27T16:00:00",
+  "hook": "Day two of leftovers? Not tonight. Thai basil chicken, 20 minutes, one pan",
+  "title": "20-Minute Thai Basil Chicken",
+  "cuisine": "Thai",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-27/2026-11-27_thai_basil_chicken.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-27/2026-11-27_thai_basil_chicken_cover.jpg",
+  "text": "Day two of leftovers? Not tonight. Thai basil chicken, 20 minutes, one pan\n\nHigh in lean protein, with fiber from the brown rice and peppers, and lighter than takeout.\n\n20-Minute Thai Basil Chicken\nServes 4. Prep 10 min, cook 12 min.\n\nIngredients:\n- 1 lb lean ground chicken (93 percent lean)\n- 1 tbsp avocado or canola oil\n- 4 garlic cloves, minced\n- 2 Thai chilies or 1 red jalapeno, thinly sliced (use less for mild)\n- 1 small shallot, thinly sliced (or 1/4 red onion)\n- 1 red bell pepper, thinly sliced\n- 2 tbsp low-sodium soy sauce\n- 1 tbsp fish sauce\n- 1 tbsp oyster sauce\n- 1 tsp brown sugar (or honey)\n- 1/4 cup water or low-sodium chicken broth\n- 2 cups fresh Thai basil leaves (Italian basil works too)\n- 3 cups cooked brown rice (about 3/4 cup per serving)\n- 1 cup sliced cucumber and 1 lime, cut into wedges, for serving\n\nSteps:\n1. Stir the soy sauce, fish sauce, oyster sauce, brown sugar and water together in a small bowl and set it by the stove.\n2. Heat the oil in a large skillet or wok over high heat until it shimmers, about 1 minute. Add the garlic, chilies and shallot and stir-fry for 30 seconds, until fragrant.\n3. Add the ground chicken, spread it out and let it brown without stirring for 2 minutes, then break it up and cook 3 to 4 minutes more until no pink remains (165 F inside).\n4. Add the bell pepper and cook 2 minutes, stirring, until it is just tender but still bright.\n5. Pour in the sauce and let it bubble for 1 to 2 minutes until it thickens and coats the chicken.\n6. Turn off the heat, add the basil and toss for about 30 seconds until it just wilts.\n7. Serve over the brown rice with cucumber slices and a lime wedge to squeeze over. Leftovers keep 3 days in the fridge.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#thaibasilchicken #padkrapow #thaifood #20minutemeals #onepanmeal #healthydinner #highprotein #easydinner #blackfriday #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "20-Minute Thai Basil Chicken",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-13",
+  "audio": "music.py upbeat bed plus Piper narration, 42.5 s, -17.2 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 426621465,
+  "uuid": "-8681562352026563234"
  }
 ]
