@@ -1,0 +1,53 @@
+[
+ {
+  "date": "2026-11-28",
+  "slug": "mango_chili_lime_paletas",
+  "title": "Mango Chili Lime Paletas",
+  "cuisine": "Mexican",
+  "meal": "Dessert",
+  "servings": "8 pops",
+  "prep": "10 min",
+  "cook": "4 hr in the freezer",
+  "hook": "Four days of pie is enough. Mango chili lime pops: 5 ingredients, almost all fruit",
+  "benefit": "Almost all fruit, so every pop is full of vitamin C and fiber with no refined sugar",
+  "ingredients": [
+   "4 cups mango chunks, fresh or frozen (about 2 large ripe mangoes), divided",
+   "1/2 cup cold water (or coconut water)",
+   "1/4 cup fresh lime juice (about 2 limes)",
+   "1 to 2 tbsp honey (skip it if your mangoes are very sweet)",
+   "1 1/2 tsp chili lime seasoning such as Tajin, divided, plus more for serving",
+   "8 popsicle molds (3 oz each) or small paper cups with wooden sticks"
+  ],
+  "key_ingredients": [
+   "4 cups mango chunks",
+   "1/2 cup cold water",
+   "1/4 cup fresh lime juice",
+   "1 to 2 tbsp honey",
+   "1 1/2 tsp chili lime seasoning",
+   "8 popsicle molds or paper cups"
+  ],
+  "steps": [
+   "Set aside 1/2 cup of the mango and dice it small. Put the other 3 1/2 cups in a blender with the water, lime juice and 1 tablespoon of honey. Blend on high for about 1 minute until completely smooth. Taste and add the second tablespoon of honey only if it needs it.",
+   "Stir in the diced mango and 1 teaspoon of the chili lime seasoning by hand so the little pieces stay whole.",
+   "Pour the mix into 8 popsicle molds or 3-ounce paper cups, leaving 1/4 inch of space at the top for the pops to expand. Freeze for 1 hour, push a stick into the center of each, then freeze for at least 4 more hours or overnight.",
+   "To unmold, run the outside of the molds under warm water for 10 to 20 seconds and pull gently. Sprinkle the remaining 1/2 teaspoon of chili lime seasoning over the pops and add a squeeze of lime. Keep them in the freezer in a zip bag for up to 2 weeks."
+  ],
+  "vo_steps": [
+   "Dice half a cup of mango and set it aside. Blend the rest with the water, lime juice and honey for one minute until smooth.",
+   "Stir in the diced mango and a teaspoon of chili lime seasoning.",
+   "Pour into eight molds or paper cups, freeze one hour, add the sticks, then freeze four more hours.",
+   "Run the molds under warm water to unmold, then finish with more chili lime seasoning and a squeeze of lime."
+  ],
+  "person": "a Mexican-American woman in her late 30s with medium tan skin, a healthy curvy figure and long dark wavy hair tied in a low ponytail, wearing a fitted mustard-yellow crew neck top and a striped linen kitchen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: six bright golden-orange mango paletas (Mexican fruit popsicles with wooden sticks) with visible small mango chunks, lightly dusted with red chili lime seasoning, arranged on a bed of crushed ice on a rustic white ceramic platter with lime wedges, a halved ripe mango and a small bowl of chili lime seasoning beside them, a sunlit terracotta-tiled table, vivid colors, shallow depth of field, frosty and refreshing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she pours a smooth bright orange mango puree from a glass blender jar into a row of popsicle molds on a sunlit kitchen counter, fresh mango halves, cut limes and a small bowl of red chili lime seasoning beside her, bright modern kitchen with white tiles and plants, natural window light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting on a sunny patio with potted plants and laughing as she holds up a golden-orange mango paleta on a wooden stick dusted with red chili lime seasoning, about to take a bite, a plate with two more paletas and lime wedges on the table, warm afternoon light, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#paletas #mangochililime #mexicanfood #frozentreats #healthydessert #healthysnacks #nobake #5ingredients #norefinedsugar #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "canva_media": {
+   "hero": "MAHa32o9C50",
+   "cook": "MAHa3_OGyaI",
+   "enjoy": "MAHa39vkQDs"
+  }
+ }
+]
