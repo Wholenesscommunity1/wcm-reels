@@ -2707,5 +2707,28 @@
   "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
   "post_id": 426621465,
   "uuid": "-8681562352026563234"
+ },
+ {
+  "day": 199,
+  "task": "daily recipe reels",
+  "date": "2026-11-28T16:00:00",
+  "hook": "Four days of pie is enough. Mango chili lime pops: 5 ingredients, almost all fruit",
+  "title": "Mango Chili Lime Paletas",
+  "cuisine": "Mexican",
+  "meal": "Dessert",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-28/2026-11-28_mango_chili_lime_paletas.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-28/2026-11-28_mango_chili_lime_paletas_cover.jpg",
+  "text": "Four days of pie is enough. Mango chili lime pops: 5 ingredients, almost all fruit\n\nAlmost all fruit, so every pop is full of vitamin C and fiber with no refined sugar.\n\nMango Chili Lime Paletas\nServes 8 pops. Prep 10 min, cook 4 hr in the freezer.\n\nIngredients:\n- 4 cups mango chunks, fresh or frozen (about 2 large ripe mangoes), divided\n- 1/2 cup cold water (or coconut water)\n- 1/4 cup fresh lime juice (about 2 limes)\n- 1 to 2 tbsp honey (skip it if your mangoes are very sweet)\n- 1 1/2 tsp chili lime seasoning such as Tajin, divided, plus more for serving\n- 8 popsicle molds (3 oz each) or small paper cups with wooden sticks\n\nSteps:\n1. Set aside 1/2 cup of the mango and dice it small. Put the other 3 1/2 cups in a blender with the water, lime juice and 1 tablespoon of honey. Blend on high for about 1 minute until completely smooth. Taste and add the second tablespoon of honey only if it needs it.\n2. Stir in the diced mango and 1 teaspoon of the chili lime seasoning by hand so the little pieces stay whole.\n3. Pour the mix into 8 popsicle molds or 3-ounce paper cups, leaving 1/4 inch of space at the top for the pops to expand. Freeze for 1 hour, push a stick into the center of each, then freeze for at least 4 more hours or overnight.\n4. To unmold, run the outside of the molds under warm water for 10 to 20 seconds and pull gently. Sprinkle the remaining 1/2 teaspoon of chili lime seasoning over the pops and add a squeeze of lime. Keep them in the freezer in a zip bag for up to 2 weeks.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#paletas #mangochililime #mexicanfood #frozentreats #healthydessert #healthysnacks #nobake #5ingredients #norefinedsugar #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Mango Chili Lime Paletas, 5 ingredients",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-14",
+  "audio": "music.py upbeat bed plus Piper narration, 42.1 s, -16.4 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 427794052,
+  "uuid": "-6926576575712113290"
  }
 ]
