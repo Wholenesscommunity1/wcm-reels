@@ -2730,5 +2730,28 @@
   "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
   "post_id": 427794052,
   "uuid": "-6926576575712113290"
+ },
+ {
+  "day": 200,
+  "task": "daily recipe reels",
+  "date": "2026-11-29T16:00:00",
+  "hook": "The reset dinner after a long holiday weekend: Chinese tomato eggs, one pan, 15 minutes",
+  "title": "15-Minute Chinese Tomato Egg Stir-Fry",
+  "cuisine": "Chinese",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-29/2026-11-29_chinese_tomato_egg_stir_fry.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-29/2026-11-29_chinese_tomato_egg_stir_fry_cover.jpg",
+  "text": "The reset dinner after a long holiday weekend: Chinese tomato eggs, one pan, 15 minutes\n\nHigh in protein, with vitamin C from the tomatoes and whole grain fiber from the brown rice.\n\n15-Minute Chinese Tomato Egg Stir-Fry\nServes 2. Prep 5 min, cook 10 min.\n\nIngredients:\n- 4 large eggs\n- 1 tbsp water\n- 1/2 tsp salt, divided\n- 4 ripe medium tomatoes (about 1 1/2 lb), cut into 8 wedges each\n- 2 scallions, white and green parts sliced and kept separate\n- 1 tbsp avocado or other neutral oil, divided\n- 1 tsp sugar (or honey)\n- 1 tsp low-sodium soy sauce\n- 1/4 tsp white pepper (or black pepper)\n- 2 cups cooked brown rice, warm, for serving\n\nSteps:\n1. Beat the eggs with the water, 1/4 teaspoon of the salt and the white parts of the scallions until smooth. The splash of water keeps the eggs soft and fluffy.\n2. Heat 2 teaspoons of the oil in a large nonstick skillet or wok over medium-high until it shimmers. Pour in the eggs, let them set for 20 seconds, then push them gently into big soft curds for about 1 minute. Scoop them out while still a little glossy; they finish cooking later.\n3. Add the last teaspoon of oil and the tomato wedges to the same pan. Cook over medium-high, stirring now and then, for 4 to 5 minutes until the tomatoes soften and release their juice. Press a few wedges with the spatula so they break down into a sauce.\n4. Stir in the sugar, soy sauce, the remaining 1/4 teaspoon of salt and the white pepper. Simmer for 1 minute until the sauce is glossy and lightly thickened.\n5. Return the eggs to the pan and fold them gently into the tomatoes for about 1 minute, just until coated and set. Turn off the heat, scatter the scallion greens on top and serve right away over 1 cup of warm brown rice per person.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#tomatoegg #chinesefood #easydinner #15minutemeals #onepanmeal #eggs #highprotein #weeknightdinner #budgetmeals #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "15-Minute Chinese Tomato Egg Stir-Fry",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-15",
+  "audio": "music.py upbeat bed plus Piper narration, 42.0 s, -16.5 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 428658177,
+  "uuid": "-273407429962743153"
  }
 ]
