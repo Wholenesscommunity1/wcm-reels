@@ -1,0 +1,59 @@
+[
+ {
+  "date": "2026-11-29",
+  "slug": "chinese_tomato_egg_stir_fry",
+  "title": "15-Minute Chinese Tomato Egg Stir-Fry",
+  "cuisine": "Chinese",
+  "meal": "Dinner",
+  "servings": "2",
+  "prep": "5 min",
+  "cook": "10 min",
+  "hook": "The reset dinner after a long holiday weekend: Chinese tomato eggs, one pan, 15 minutes",
+  "benefit": "High in protein, with vitamin C from the tomatoes and whole grain fiber from the brown rice",
+  "ingredients": [
+   "4 large eggs",
+   "1 tbsp water",
+   "1/2 tsp salt, divided",
+   "4 ripe medium tomatoes (about 1 1/2 lb), cut into 8 wedges each",
+   "2 scallions, white and green parts sliced and kept separate",
+   "1 tbsp avocado or other neutral oil, divided",
+   "1 tsp sugar (or honey)",
+   "1 tsp low-sodium soy sauce",
+   "1/4 tsp white pepper (or black pepper)",
+   "2 cups cooked brown rice, warm, for serving"
+  ],
+  "key_ingredients": [
+   "4 large eggs",
+   "4 ripe tomatoes (1 1/2 lb)",
+   "2 scallions",
+   "1 tbsp neutral oil",
+   "1 tsp sugar + 1 tsp soy sauce",
+   "2 cups cooked brown rice"
+  ],
+  "steps": [
+   "Beat the eggs with the water, 1/4 teaspoon of the salt and the white parts of the scallions until smooth. The splash of water keeps the eggs soft and fluffy.",
+   "Heat 2 teaspoons of the oil in a large nonstick skillet or wok over medium-high until it shimmers. Pour in the eggs, let them set for 20 seconds, then push them gently into big soft curds for about 1 minute. Scoop them out while still a little glossy; they finish cooking later.",
+   "Add the last teaspoon of oil and the tomato wedges to the same pan. Cook over medium-high, stirring now and then, for 4 to 5 minutes until the tomatoes soften and release their juice. Press a few wedges with the spatula so they break down into a sauce.",
+   "Stir in the sugar, soy sauce, the remaining 1/4 teaspoon of salt and the white pepper. Simmer for 1 minute until the sauce is glossy and lightly thickened.",
+   "Return the eggs to the pan and fold them gently into the tomatoes for about 1 minute, just until coated and set. Turn off the heat, scatter the scallion greens on top and serve right away over 1 cup of warm brown rice per person."
+  ],
+  "vo_steps": [
+   "Beat the eggs with a splash of water, a pinch of salt and the scallion whites.",
+   "Soft scramble them in hot oil for about a minute and scoop them out while still glossy.",
+   "Cook the tomato wedges four to five minutes until they soften and get saucy.",
+   "Stir in the sugar, soy sauce, salt and white pepper and simmer for one minute.",
+   "Fold the eggs back in, top with scallion greens and serve over warm brown rice."
+  ],
+  "person": "a Chinese-American man in his mid 40s with light skin, a fit broad-shouldered build and short black hair with a little gray at the temples, wearing a fitted charcoal gray henley with the sleeves pushed up and a dark denim kitchen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a shallow white bowl of Chinese tomato and egg stir-fry, big soft golden scrambled egg curds folded with glossy red tomato wedges in a light tomato sauce, topped with sliced green scallions, served over a bed of nutty brown rice, a pair of dark wooden chopsticks resting on the bowl, a small dish of sliced scallions and two whole ripe tomatoes beside it, dark slate table, soft window light, steam rising, vivid red and yellow colors, shallow depth of field, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as he folds soft golden scrambled eggs into glossy red tomato wedges in a black wok on a gas stove with a wooden spatula, a bowl of sliced scallions and a cutting board with ripe tomatoes beside the stove, bright modern kitchen with white subway tiles and a window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a light wooden dining table and laughing as he lifts a bite of tomato and egg stir-fry over brown rice with chopsticks from a white bowl, glossy red tomatoes and golden eggs visible, a glass of water and a small plate of scallions on the table, warm evening light from a window, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#tomatoegg #chinesefood #easydinner #15minutemeals #onepanmeal #eggs #highprotein #weeknightdinner #budgetmeals #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "canva_media": {
+   "hero": "MAHa907qEWw",
+   "cook": "MAHa95mBh2c",
+   "enjoy": "MAHa9xG4M50"
+  }
+ }
+]
