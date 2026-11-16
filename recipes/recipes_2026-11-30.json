@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-11-30",
+  "slug": "mango_coconut_chia_pudding",
+  "title": "Make-Ahead Mango Coconut Chia Pudding",
+  "cuisine": "Caribbean inspired",
+  "meal": "Breakfast",
+  "servings": "4",
+  "prep": "10 min",
+  "cook": "3 min (plus 4 hours in the fridge)",
+  "hook": "Thanksgiving is over. Five minutes tonight and breakfast is done for the week: mango coconut chia pudding that tastes like dessert",
+  "benefit": "Fiber and omega-3s from the chia, protein from the Greek yogurt and vitamin C from the mango",
+  "ingredients": [
+   "1 can (13.5 oz) light coconut milk",
+   "1/2 cup plain Greek yogurt (2 percent)",
+   "2 tbsp honey or maple syrup, divided",
+   "1/2 tsp vanilla extract",
+   "Pinch of salt",
+   "1/2 cup chia seeds",
+   "2 cups diced ripe mango (fresh, or frozen and thawed)",
+   "1 tbsp lime juice",
+   "1/4 cup unsweetened coconut flakes"
+  ],
+  "key_ingredients": [
+   "1 can light coconut milk",
+   "1/2 cup Greek yogurt",
+   "1/2 cup chia seeds",
+   "2 tbsp honey",
+   "2 cups diced mango",
+   "1/4 cup coconut flakes"
+  ],
+  "steps": [
+   "Whisk the coconut milk, Greek yogurt, 1 tablespoon of the honey, the vanilla and the salt in a bowl until smooth. Stir in the chia seeds.",
+   "Let it sit for 10 minutes, then whisk again to break up any clumps. Cover and refrigerate for at least 4 hours or overnight, until thick and spoonable.",
+   "Toss the mango with the lime juice and the remaining 1 tablespoon of honey. Mash about half of it with a fork so you get a saucy layer with chunks.",
+   "Toast the coconut flakes in a dry skillet over medium heat for 2 to 3 minutes, stirring, until golden. Cool on a plate.",
+   "Divide the pudding among 4 jars, spoon the mango on top and finish with the toasted coconut. Lid on; they keep in the fridge for up to 5 days."
+  ],
+  "vo_steps": [
+   "Whisk coconut milk, Greek yogurt, honey, vanilla and salt, then stir in the chia seeds.",
+   "Rest ten minutes, whisk again, then chill at least four hours or overnight.",
+   "Toss the mango with lime and honey and mash half of it for a saucy layer.",
+   "Toast the coconut flakes in a dry pan for two to three minutes until golden.",
+   "Layer pudding, mango and coconut in four jars. Breakfast is done for the week."
+  ],
+  "person": "a Brazilian woman in her mid 30s with warm brown skin, a healthy curvy figure and long dark curly hair tied back loosely, wearing a fitted white ribbed top and a striped linen kitchen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a tall glass jar of creamy mango coconut chia pudding, pale white chia pudding layered with bright golden diced mango and a glossy mango puree swirl, topped with golden toasted coconut flakes and a thin wedge of lime, two more filled jars slightly out of focus behind it, a halved ripe mango and scattered chia seeds on a light wooden board, bright morning window light, vivid yellow and white colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she whisks creamy coconut milk and chia seeds in a glass mixing bowl, a halved ripe mango, a bowl of diced golden mango, a small jar of chia seeds and a can of coconut milk on the light wooden counter beside her, bright modern kitchen with white cabinets, plants and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a sunny breakfast table and laughing as she lifts a spoonful of creamy chia pudding topped with golden diced mango and toasted coconut from a glass jar, three more jars of mango chia pudding and a cup of coffee on the table, green plants and a bright window behind her, warm morning light, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#chiapudding #mealprepbreakfast #healthybreakfast #mangococonut #makeaheadbreakfast #highfiber #greekyogurt #easybreakfast #breakfastideas #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "canva_media": {
+   "hero": "MAHbD26cIPE",
+   "cook": "MAHbD5CYCS0",
+   "enjoy": "MAHbDxq4Enk"
+  }
+ }
+]
