@@ -2753,5 +2753,28 @@
   "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
   "post_id": 428658177,
   "uuid": "-273407429962743153"
+ },
+ {
+  "day": 201,
+  "task": "daily recipe reels",
+  "date": "2026-11-30T16:00:00",
+  "hook": "Thanksgiving is over. Five minutes tonight and breakfast is done for the week: mango coconut chia pudding that tastes like dessert",
+  "title": "Make-Ahead Mango Coconut Chia Pudding",
+  "cuisine": "Caribbean inspired",
+  "meal": "Breakfast",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-30/2026-11-30_mango_coconut_chia_pudding.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-11-30/2026-11-30_mango_coconut_chia_pudding_cover.jpg",
+  "text": "Thanksgiving is over. Five minutes tonight and breakfast is done for the week: mango coconut chia pudding that tastes like dessert\n\nFiber and omega-3s from the chia, protein from the Greek yogurt and vitamin C from the mango.\n\nMake-Ahead Mango Coconut Chia Pudding\nServes 4. Prep 10 min, cook 3 min (plus 4 hours in the fridge).\n\nIngredients:\n- 1 can (13.5 oz) light coconut milk\n- 1/2 cup plain Greek yogurt (2 percent)\n- 2 tbsp honey or maple syrup, divided\n- 1/2 tsp vanilla extract\n- Pinch of salt\n- 1/2 cup chia seeds\n- 2 cups diced ripe mango (fresh, or frozen and thawed)\n- 1 tbsp lime juice\n- 1/4 cup unsweetened coconut flakes\n\nSteps:\n1. Whisk the coconut milk, Greek yogurt, 1 tablespoon of the honey, the vanilla and the salt in a bowl until smooth. Stir in the chia seeds.\n2. Let it sit for 10 minutes, then whisk again to break up any clumps. Cover and refrigerate for at least 4 hours or overnight, until thick and spoonable.\n3. Toss the mango with the lime juice and the remaining 1 tablespoon of honey. Mash about half of it with a fork so you get a saucy layer with chunks.\n4. Toast the coconut flakes in a dry skillet over medium heat for 2 to 3 minutes, stirring, until golden. Cool on a plate.\n5. Divide the pudding among 4 jars, spoon the mango on top and finish with the toasted coconut. Lid on; they keep in the fridge for up to 5 days.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#chiapudding #mealprepbreakfast #healthybreakfast #mangococonut #makeaheadbreakfast #highfiber #greekyogurt #easybreakfast #breakfastideas #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Make-Ahead Mango Coconut Chia Pudding",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-16",
+  "audio": "music.py upbeat bed plus Piper narration, 43.5 s, -16.5 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 429675433,
+  "uuid": "-504407641598767487"
  }
 ]
