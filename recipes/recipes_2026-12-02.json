@@ -1,0 +1,65 @@
+[
+ {
+  "date": "2026-12-02",
+  "slug": "gochujang_salmon_bowls",
+  "title": "Sheet Pan Gochujang Salmon Bowls",
+  "cuisine": "Korean",
+  "meal": "Dinner",
+  "servings": "4",
+  "prep": "10 min",
+  "cook": "20 min",
+  "hook": "Midweek dinner that packs 3 lunches too: gochujang salmon bowls, one sheet pan, 30 minutes",
+  "benefit": "Omega-3s and protein from the salmon, fiber from the brown rice and broccoli",
+  "ingredients": [
+   "4 salmon fillets (5 to 6 oz each)",
+   "2 tbsp gochujang (Korean chili paste)",
+   "1 tbsp low-sodium soy sauce",
+   "1 tbsp honey",
+   "1 tbsp rice vinegar",
+   "1 tsp toasted sesame oil",
+   "2 cloves garlic, grated",
+   "1 tsp grated fresh ginger",
+   "1 large head broccoli, cut into florets (about 5 cups)",
+   "1 tbsp avocado oil",
+   "1/4 tsp salt",
+   "3 cups cooked brown rice (about 1 cup dry, or a microwave pouch)",
+   "1 English cucumber, thinly sliced",
+   "2 scallions, sliced",
+   "1 tbsp toasted sesame seeds",
+   "Lime wedges to serve (optional)"
+  ],
+  "key_ingredients": [
+   "4 salmon fillets, 5 to 6 oz",
+   "2 tbsp gochujang",
+   "1 tbsp each soy, honey, rice vinegar",
+   "1 head broccoli",
+   "3 cups cooked brown rice",
+   "Cucumber, scallions, sesame seeds"
+  ],
+  "steps": [
+   "Heat the oven to 425 F and line a large sheet pan with parchment. Toss the broccoli with the avocado oil and salt, spread it over the pan and roast for 6 minutes.",
+   "Whisk the gochujang, soy sauce, honey, rice vinegar, sesame oil, garlic and ginger in a small bowl. Set 1 tablespoon aside for serving.",
+   "Pat the salmon dry. Push the broccoli to one side of the pan, set the fillets on the other side and brush the glaze over the tops and sides.",
+   "Roast 12 to 14 minutes more, until the salmon flakes easily and reaches 145 F and the broccoli is browned at the edges.",
+   "Divide the rice among 4 bowls or containers. Top with salmon, broccoli, cucumber, scallions and sesame seeds, drizzle on the reserved glaze and add lime. Eat one tonight; the rest keep 3 days in the fridge."
+  ],
+  "vo_steps": [
+   "Toss the broccoli with oil and salt and roast at 425 for six minutes.",
+   "Whisk gochujang, soy, honey, rice vinegar, sesame oil, garlic and ginger. Save a spoonful for serving.",
+   "Pat the salmon dry, set it beside the broccoli and brush on the glaze.",
+   "Roast twelve to fourteen minutes, until the salmon flakes and the broccoli is browned.",
+   "Build four bowls on brown rice with cucumber, scallions and sesame. Dinner tonight, lunch for three days."
+  ],
+  "person": "a Korean-American woman in her early 40s with light golden skin, a healthy curvy figure and long dark hair in a low ponytail, wearing a fitted cream ribbed knit top with the sleeves pushed up and a navy canvas apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a wide ceramic bowl of brown rice topped with a glossy roasted salmon fillet glazed deep red with gochujang, flaking at the edge, charred bright green broccoli florets, thin pale green cucumber slices, sliced scallions and a sprinkle of white sesame seeds, a lime wedge on the side, three more packed meal prep containers slightly out of focus behind it, a small dish of red gochujang glaze and a pair of chopsticks on a dark slate counter, bright natural window light, vivid red, green and golden brown colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she brushes a glossy red gochujang glaze over four salmon fillets on a parchment-lined sheet pan, bright green broccoli florets on the other half of the pan, a small bowl of red glaze, a cucumber, scallions and a dish of sesame seeds on the white marble counter beside her, bright modern kitchen with light wood cabinets, plants and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a sunny kitchen table and smiling as she lifts a piece of glazed red salmon with chopsticks from a bowl of brown rice, charred broccoli and cucumber slices, three packed glass meal prep containers with lids and a glass of water with lime on the table, green plants and a bright window behind her, warm evening light, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#gochujangsalmon #salmonbowl #koreanfood #mealprep #sheetpandinner #healthydinner #omega3 #mealprepideas #30minutemeals #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "canva_media": {
+   "hero": "MAHbP7IsZFg",
+   "cook": "MAHbP0VnUf4",
+   "enjoy": "MAHbP7LgLUU"
+  }
+ }
+]
