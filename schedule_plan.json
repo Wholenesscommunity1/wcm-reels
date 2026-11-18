@@ -2800,5 +2800,29 @@
   "post_id": 431085219,
   "uuid": "-2039010470470726134",
   "note": "15:00 instead of 16:00 because Dec 1 already holds an 18:00 egg muffins reel; 15:00 keeps 3 hours from it and from the 12:00 and 19:00 lifestyle slots"
+ },
+ {
+  "day": 203,
+  "task": "daily recipe reels",
+  "date": "2026-12-02T16:00:00",
+  "hook": "Midweek dinner that packs 3 lunches too: gochujang salmon bowls, one sheet pan, 30 minutes",
+  "title": "Sheet Pan Gochujang Salmon Bowls",
+  "cuisine": "Korean",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-02/2026-12-02_gochujang_salmon_bowls.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-02/2026-12-02_gochujang_salmon_bowls_cover.jpg",
+  "text": "Midweek dinner that packs 3 lunches too: gochujang salmon bowls, one sheet pan, 30 minutes\n\nOmega-3s and protein from the salmon, fiber from the brown rice and broccoli.\n\nSheet Pan Gochujang Salmon Bowls\nServes 4. Prep 10 min, cook 20 min.\n\nIngredients:\n- 4 salmon fillets (5 to 6 oz each)\n- 2 tbsp gochujang (Korean chili paste)\n- 1 tbsp low-sodium soy sauce\n- 1 tbsp honey\n- 1 tbsp rice vinegar\n- 1 tsp toasted sesame oil\n- 2 cloves garlic, grated\n- 1 tsp grated fresh ginger\n- 1 large head broccoli, cut into florets (about 5 cups)\n- 1 tbsp avocado oil\n- 1/4 tsp salt\n- 3 cups cooked brown rice (about 1 cup dry, or a microwave pouch)\n- 1 English cucumber, thinly sliced\n- 2 scallions, sliced\n- 1 tbsp toasted sesame seeds\n- Lime wedges to serve (optional)\n\nSteps:\n1. Heat the oven to 425 F and line a large sheet pan with parchment. Toss the broccoli with the avocado oil and salt, spread it over the pan and roast for 6 minutes.\n2. Whisk the gochujang, soy sauce, honey, rice vinegar, sesame oil, garlic and ginger in a small bowl. Set 1 tablespoon aside for serving.\n3. Pat the salmon dry. Push the broccoli to one side of the pan, set the fillets on the other side and brush the glaze over the tops and sides.\n4. Roast 12 to 14 minutes more, until the salmon flakes easily and reaches 145 F and the broccoli is browned at the edges.\n5. Divide the rice among 4 bowls or containers. Top with salmon, broccoli, cucumber, scallions and sesame seeds, drizzle on the reserved glaze and add lime. Eat one tonight; the rest keep 3 days in the fridge.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#gochujangsalmon #salmonbowl #koreanfood #mealprep #sheetpandinner #healthydinner #omega3 #mealprepideas #30minutemeals #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Sheet Pan Gochujang Salmon Bowls",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-18",
+  "audio": "music.py upbeat bed plus Piper narration, 43.9 s, -16.5 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 432464925,
+  "uuid": "7840280263171260971",
+  "note": "16:00; Dec 2 holds a live 10:00 stair workout reel and the lifestyle slots at 12:00 and 19:00, so 16:00 keeps 3 or more hours from everything"
  }
 ]
