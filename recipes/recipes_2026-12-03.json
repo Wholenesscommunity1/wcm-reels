@@ -1,0 +1,55 @@
+[
+ {
+  "date": "2026-12-03",
+  "slug": "chocolate_avocado_mousse",
+  "title": "Mexican Chocolate Avocado Mousse",
+  "cuisine": "Mexican",
+  "meal": "Dessert",
+  "servings": "4",
+  "prep": "10 min",
+  "cook": "none, 30 min to chill",
+  "hook": "Holiday dessert with no cream and no refined sugar: chocolate avocado mousse, 10 minutes, and nobody guesses the secret",
+  "benefit": "Fiber and healthy fats from the avocado, antioxidants from the cocoa, no refined sugar",
+  "ingredients": [
+   "2 large ripe avocados (about 1 lb)",
+   "1/3 cup unsweetened cocoa powder",
+   "1/4 cup pure maple syrup, plus more to taste",
+   "1/4 cup unsweetened almond milk (or any milk)",
+   "1 tsp vanilla extract",
+   "1/2 tsp ground cinnamon",
+   "1/8 tsp cayenne or ancho chili powder (optional)",
+   "Pinch of salt",
+   "1 cup fresh raspberries",
+   "2 tbsp sliced almonds, toasted",
+   "1 tbsp dark chocolate shavings (optional)"
+  ],
+  "key_ingredients": [
+   "2 large ripe avocados",
+   "1/3 cup unsweetened cocoa powder",
+   "1/4 cup pure maple syrup",
+   "1/4 cup almond milk",
+   "1 tsp vanilla, 1/2 tsp cinnamon",
+   "Raspberries and toasted almonds"
+  ],
+  "steps": [
+   "Halve and pit the avocados and scoop the flesh into a food processor or a strong blender.",
+   "Add the cocoa powder, maple syrup, almond milk, vanilla, cinnamon, cayenne if using and the salt. Blend 1 to 2 minutes, scraping down the sides, until completely smooth and glossy with no green streaks.",
+   "Taste. Add another tablespoon of maple syrup for a sweeter mousse, or a splash more milk if it is too thick to spoon.",
+   "Divide among 4 small glasses or ramekins, cover and chill for at least 30 minutes. It keeps covered in the fridge for up to 3 days.",
+   "Just before serving, top each glass with raspberries, toasted almonds and a few chocolate shavings."
+  ],
+  "vo_steps": [
+   "Scoop two ripe avocados into a food processor.",
+   "Add cocoa, maple syrup, almond milk, vanilla, cinnamon, a pinch of cayenne and salt. Blend until silky, with no green streaks.",
+   "Taste it. More maple for sweeter, a splash of milk if it is too thick.",
+   "Spoon into four glasses and chill thirty minutes. It keeps three days.",
+   "Top with raspberries, toasted almonds and chocolate shavings, then serve."
+  ],
+  "person": "a Mexican-American woman in her early 60s with warm medium-brown skin, a healthy curvy figure and silver-streaked dark hair in a loose low bun, wearing a fitted deep teal crewneck sweater with the sleeves pushed up and a striped linen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: four small clear glass dessert cups filled with silky dark chocolate mousse, each topped with bright red fresh raspberries, toasted sliced almonds and a few dark chocolate shavings, one cup in sharp focus in front with a spoon lifting a glossy bite showing the smooth texture, a halved ripe avocado, a small bowl of cocoa powder, a cinnamon stick and a little pitcher of maple syrup arranged beside them on a warm terracotta-toned wooden table, string lights and a sprig of pine softly out of focus in the background for a December feel, bright natural window light, rich deep brown and vivid red colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she scrapes glossy dark chocolate mousse from a food processor bowl into small glass cups with a spatula, two halved ripe avocados with the pits removed, a bowl of cocoa powder, a bottle of maple syrup, a cinnamon stick and a bowl of fresh raspberries on the white marble counter beside her, bright modern kitchen with warm wood cabinets, a small potted plant and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a cozy kitchen table with a soft evening glow, smiling with her eyes closed in delight as she takes a spoonful of dark chocolate mousse topped with raspberries and sliced almonds from a small glass cup, three more cups of mousse and a mug of tea on the table, warm string lights and a small pine garland in the background for an early December feel, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#chocolateavocadomousse #avocadomousse #healthydessert #nobake #darkchocolate #mexicanchocolate #norefinedsugar #holidaydessert #easydessert #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
