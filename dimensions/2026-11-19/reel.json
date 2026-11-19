@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-19",
+ "slug": "stress_relief_rest_wind_down",
+ "dimension": "Stress Relief & Rest",
+ "title": "The 10-minute wind-down",
+ "hook": "Your body does not know the workday ended. Here is how to tell it, in 10 minutes.",
+ "hook_say": "Your body does not know the workday ended. Nobody told it. Here is how you tell it, in about ten minutes.",
+ "what": "Stress Relief & Rest is one of the nine dimensions on the Wholeness Wheel. It is not just sleep. It is how you come down from the day.",
+ "what_say": "Stress Relief and Rest is one of the nine dimensions on the Wholeness Wheel. It is not just sleep. It is how you come down from the day, so tomorrow starts lighter.",
+ "tips": [
+  {
+   "head": "Dim the lights an hour out",
+   "detail": "Overheads off, one lamp on. Low light is the cue your brain is waiting for.",
+   "img": "lamp",
+   "say": "First. An hour before bed, overhead lights off, one lamp on. Low light is the clearest signal your brain gets that the day is wrapping up. And it costs nothing."
+  },
+  {
+   "head": "Write tomorrow down, 3 lines",
+   "detail": "Top three for tomorrow, on paper. Then close the notebook.",
+   "img": "notebook",
+   "say": "Second. Write tomorrow's top three on paper. Not twenty things. Three. Once it is written down, your mind can stop holding it. That is usually what keeps you up."
+  },
+  {
+   "head": "Breathe in for 4, out for 6",
+   "detail": "Ten slow rounds, about two minutes. The longer exhale does the work.",
+   "img": "breathe",
+   "say": "Third. Breathe in for a count of four, out for a count of six. Ten rounds, about two minutes. The longer exhale helps your body downshift."
+  },
+  {
+   "head": "Phone charges in the kitchen",
+   "detail": "If you need the alarm, a ten dollar clock does the job.",
+   "img": "notebook",
+   "say": "And the one that works best. Your phone charges in the kitchen tonight. If you need the alarm, a ten dollar clock does the job."
+  }
+ ],
+ "outro": "Rest is a skill. Pick one of these tonight.",
+ "outro_say": "Rest is a skill. Start with one of these tonight. And to see how your rest stacks up against the other eight dimensions, take the free Wholeness Assessment. Link in bio.",
+ "cta": "Take the free Wholeness Assessment",
+ "mood": "calm",
+ "images": {
+  "hero": "src/hero.jpg",
+  "lamp": "src/lamp.jpg",
+  "notebook": "src/notebook.jpg",
+  "breathe": "src/breathe.jpg"
+ },
+ "person": "a Black man in his mid 30s with deep brown skin, an athletic build, close-cropped hair and a neat short beard, wearing a fitted heather gray henley and dark joggers",
+ "caption": "Your body does not know the workday ended. Here is how to tell it, in 10 minutes.\n\nStress Relief & Rest is one of the nine dimensions on the Wholeness Wheel, and it is about more than sleep. It is how you come down from the day so the next one starts lighter. Four things that help, none of them cost anything:\n\n1. An hour before bed, overhead lights off and one lamp on. Low light is the cue your brain is waiting for.\n2. Write tomorrow's top three on paper. Three, not twenty. Then close the notebook.\n3. Breathe in for a count of 4 and out for a count of 6. Ten rounds, about two minutes.\n4. Your phone charges in the kitchen tonight. A ten dollar alarm clock covers the rest.\n\nPick one tonight and tell us which one in the comments. Curious how your rest compares with the other eight dimensions? Take the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#stressrelief #restandrecover #winddown #sleepbetter #eveningroutine #nervoussystem #selfcare #wholenesswheel #mentalwellness #wholepersonwellness #wholenesscommunity",
+ "hashtags": "#stressrelief #restandrecover #winddown #sleepbetter #eveningroutine #nervoussystem #selfcare #wholenesswheel #mentalwellness #wholepersonwellness #wholenesscommunity"
+}

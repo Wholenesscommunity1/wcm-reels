@@ -52,8 +52,71 @@ def spoken(text):
     return s
 
 
-def say(text, path, voice=VOICE, speed=0.87):   # 0.87 reads a touch brisker than the old 0.96 so narrated recipes stay under about 50 s
-    """Synthesize text to a 44.1 kHz mono wav at path. Returns the duration in seconds."""
+# ---------- cloud voice (OpenAI gpt-4o-mini-tts) with light regional accents ----------
+# Sandip asked (Nov 19, 2026) for a more natural, human voice and an A/B test of light regional accents.
+# The key is never stored in the repo: it comes from OPENAI_API_KEY, or from the file named in
+# WCM_OPENAI_KEY_FILE (default ~/.config/wcm/openai_key), which each run fills from Sandip's private
+# Google Drive file "wcm-openai-key" before rendering. With no key (or WCM_TTS=piper) Piper is used.
+ACCENTS = {
+    "southern":   "Speak with a very light Southern US accent, just a hint of warmth and drawl, never exaggerated or comic.",
+    "midwest":    "Speak with a light Midwestern US accent (Minnesota, Wisconsin, Iowa), friendly and plain-spoken, never exaggerated.",
+    "northern":   "Speak with a light Northeastern US accent (upstate New York, New England), relaxed and clear, never exaggerated.",
+    "california": "Speak with a light Southern California accent, easygoing and sunny, never exaggerated or slangy.",
+    "neutral":    "Speak in a neutral general American accent.",
+}
+ACCENT_ORDER = ["southern", "midwest", "northern", "california"]   # A/B rotation, 3 days each
+OPENAI_VOICES = {"southern": "sage", "midwest": "coral", "northern": "ash", "california": "nova", "neutral": "sage"}
+STYLE = ("You are a warm, friendly home cook and wellness coach talking to a friend in your kitchen, recording a short social "
+         "video. Natural, unhurried, conversational pace with easy pauses between sentences; genuinely upbeat but calm. "
+         "Never sound like an announcer or a commercial; no vocal fry, no breathiness. {accent}")
+
+
+def openai_key():
+    k = os.environ.get("OPENAI_API_KEY", "").strip()
+    if k:
+        return k
+    f = os.environ.get("WCM_OPENAI_KEY_FILE", os.path.join(os.path.expanduser("~"), ".config", "wcm", "openai_key"))
+    if os.path.exists(f):
+        return open(f).read().strip()
+    return ""
+
+
+def accent_for(date_str, start="2026-11-20"):
+    """Which accent the A/B test assigns to a date: 3 days each, cycling through ACCENT_ORDER from `start`."""
+    from datetime import date
+    d = (date.fromisoformat(date_str) - date.fromisoformat(start)).days
+    if d < 0:
+        return "neutral"
+    return ACCENT_ORDER[(d // 3) % len(ACCENT_ORDER)]
+
+
+def say_openai(text, path, accent="neutral", speed=1.0, key=None):
+    import json
+    key = key or openai_key()
+    body = json.dumps({"model": "gpt-4o-mini-tts", "voice": OPENAI_VOICES.get(accent, "sage"), "input": spoken(text),
+                       "instructions": STYLE.format(accent=ACCENTS.get(accent, ACCENTS["neutral"])),
+                       "response_format": "wav", "speed": speed}).encode()
+    req = urllib.request.Request("https://api.openai.com/v1/audio/speech", data=body,
+                                 headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"})
+    raw = path + ".raw.wav"
+    with urllib.request.urlopen(req, timeout=120) as r, open(raw, "wb") as out:
+        out.write(r.read())
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-ar", "44100", "-ac", "1", "-af", "loudnorm=I=-16:TP=-1.5:LRA=7",
+                    path], check=True)
+    os.remove(raw)
+    with wave.open(path) as w:
+        return w.getnframes() / w.getframerate()
+
+
+def say(text, path, voice=VOICE, speed=0.87, accent=None):
+    """Synthesize text to a 44.1 kHz mono wav at path. Returns the duration in seconds.
+
+    Uses the OpenAI voice when a key is available and WCM_TTS is not "piper"; `accent` picks the A/B
+    variant (WCM_ACCENT env overrides). Otherwise Piper, where `speed` is the length scale (higher is slower)."""
+    if os.environ.get("WCM_TTS", "auto") != "piper" and openai_key():
+        acc = accent or os.environ.get("WCM_ACCENT", "neutral")
+        # Piper length-scale 0.87 is a brisk read; the cloud voice is told to be unhurried, so keep 1.0 there
+        return say_openai(text, path, accent=acc, speed=1.0)
     raw = path + ".raw.wav"
     subprocess.run(["python3", "-m", "piper", "-m", model_path(voice), "-f", raw, "--length-scale", str(speed), "--", spoken(text)],
                    check=True, capture_output=True)
