@@ -1,0 +1,69 @@
+[
+ {
+  "date": "2026-12-04",
+  "slug": "jerk_chicken_bowls",
+  "title": "Sheet Pan Jerk Chicken Bowls with Mango Salsa",
+  "cuisine": "Jamaican",
+  "meal": "Dinner",
+  "servings": "4",
+  "prep": "15 min",
+  "cook": "35 min",
+  "hook": "Skip the Friday takeout: jerk chicken bowls, one sheet pan, and Monday lunch is done too",
+  "benefit": "Lean protein, fiber from beans and rice, vitamin C from mango",
+  "ingredients": [
+   "1 1/2 lb boneless skinless chicken thighs",
+   "Jerk marinade: 2 tbsp olive oil",
+   "2 tbsp lime juice",
+   "1 tbsp low-sodium soy sauce",
+   "1 tbsp honey",
+   "2 tsp ground allspice",
+   "1 tsp dried thyme",
+   "1 tsp smoked paprika",
+   "1/2 tsp ground cinnamon",
+   "1/4 tsp ground nutmeg",
+   "1/2 tsp cayenne (or 1 habanero, minced, for real heat)",
+   "3 cloves garlic, minced",
+   "1 tsp salt, 1/2 tsp black pepper",
+   "1 large sweet potato (about 1 lb), cut into 1/2 inch cubes",
+   "1 red bell pepper, sliced",
+   "1 red onion, cut into wedges",
+   "1 tbsp olive oil for the vegetables",
+   "Mango salsa: 1 ripe mango, diced",
+   "1/2 cup diced cucumber",
+   "1/4 cup chopped cilantro",
+   "2 tbsp finely diced red onion",
+   "Juice of 1 lime and a pinch of salt",
+   "3 cups cooked brown rice (1 cup dry)",
+   "1 can (15 oz) black beans, rinsed and warmed",
+   "Lime wedges to serve"
+  ],
+  "key_ingredients": [
+   "1 1/2 lb chicken thighs",
+   "2 tsp allspice, 1 tsp thyme",
+   "1 sweet potato, 1 pepper, 1 red onion",
+   "1 mango, 1/2 cup cucumber, 1 lime",
+   "3 cups cooked brown rice",
+   "1 can black beans"
+  ],
+  "steps": [
+   "Whisk the marinade: 2 tbsp olive oil, lime juice, soy sauce, honey, allspice, thyme, paprika, cinnamon, nutmeg, cayenne, garlic, salt and pepper. Coat the chicken and rest 15 minutes, or overnight in the fridge.",
+   "Heat the oven to 425F. Toss the sweet potato, bell pepper and red onion with 1 tbsp olive oil and a pinch of salt on a lined sheet pan. Roast 10 minutes.",
+   "Push the vegetables to the edges and lay the chicken in the middle. Roast 20 to 22 minutes, until 165F inside. Broil 2 minutes, rest 5 minutes, then slice.",
+   "While it roasts, stir the salsa: mango, cucumber, cilantro, red onion, lime juice and a pinch of salt.",
+   "Build 4 bowls: brown rice, black beans, roasted vegetables, sliced chicken and a big spoon of mango salsa. Serve with lime wedges. Extra bowls keep 4 days in the fridge; pack the salsa separately."
+  ],
+  "vo_steps": [
+   "Whisk oil, lime, soy, honey, allspice, thyme, paprika, cinnamon and garlic. Coat the chicken.",
+   "Oven to four twenty five. Sweet potato, pepper and onion on a sheet pan with oil. Roast ten minutes.",
+   "Add the chicken in the middle. Roast twenty minutes to one sixty five, broil two, slice.",
+   "Stir mango, cucumber, cilantro, red onion, lime and salt.",
+   "Rice, beans, veg, chicken, salsa. Four bowls, extras keep four days."
+  ],
+  "person": "a Jamaican man in his early 50s with deep brown skin, a fit broad-shouldered build, close-cropped hair and a neat salt-and-pepper beard, wearing a fitted olive green henley with the sleeves pushed up and a dark denim apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a wide shallow bowl of jerk chicken, sliced dark-charred spiced chicken thigh fanned over brown rice and black beans, roasted sweet potato cubes, red bell pepper strips and red onion wedges, a bright heap of fresh mango salsa with cucumber and cilantro on top, lime wedges on the side, two more finished meal-prep bowls behind it, a scattering of allspice berries and a sprig of thyme on a warm teak wooden table, bright natural window light, vivid orange, red, green and golden colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as he lifts a sheet pan of charred jerk chicken thighs, roasted sweet potato cubes, red bell pepper and red onion out of the oven with a kitchen towel, a bowl of diced mango salsa, a pot of brown rice, a lime cut in half and a small dish of allspice and thyme on the white quartz counter beside him, bright modern kitchen with warm wood cabinets, a potted herb plant and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a bright kitchen table on a Friday evening with warm golden light, smiling with his eyes crinkled as he lifts a fork of jerk chicken and mango salsa from a colorful bowl of rice, black beans and roasted vegetables, three more meal-prep containers with lids and a glass of sparkling water with lime on the table, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#jerkchicken #jamaicanfood #caribbeanfood #sheetpandinner #mealprep #mealprepideas #healthydinner #mangosalsa #highprotein #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
