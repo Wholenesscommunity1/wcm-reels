@@ -1,0 +1,50 @@
+[
+ {
+  "date": "2026-12-05",
+  "slug": "chocolate_clementines",
+  "title": "Dark Chocolate Clementines with Pistachio and Sea Salt",
+  "cuisine": "Italian inspired (Sicilian orange and pistachio)",
+  "meal": "Dessert",
+  "servings": "6 (about 50 pieces)",
+  "prep": "15 min",
+  "cook": "5 min, plus 15 min to chill",
+  "hook": "The holiday dessert that is mostly fruit: dark chocolate clementines, 6 ingredients, 20 minutes, no oven",
+  "benefit": "Vitamin C and fiber from the fruit, antioxidants from dark chocolate, healthy fats from pistachios",
+  "ingredients": [
+   "6 clementines (or mandarins)",
+   "4 oz dark chocolate (70 percent), chopped",
+   "1 tsp coconut oil",
+   "1/4 cup shelled pistachios, finely chopped",
+   "1/2 tsp orange zest (zest one clementine before you peel it)",
+   "1/4 tsp flaky sea salt"
+  ],
+  "key_ingredients": [
+   "6 clementines",
+   "4 oz dark chocolate, 70 percent",
+   "1 tsp coconut oil",
+   "1/4 cup pistachios, chopped",
+   "1/2 tsp orange zest",
+   "1/4 tsp flaky sea salt"
+  ],
+  "steps": [
+   "Line a baking sheet with parchment. Zest one clementine, then peel all 6 and separate them into segments. Pat the segments dry with a paper towel so the chocolate sticks.",
+   "Chop the pistachios finely and mix them with the orange zest on a small plate.",
+   "Melt the chocolate with the coconut oil in a microwave safe bowl in 20 second bursts, stirring between each, about 60 to 80 seconds total, until smooth and glossy.",
+   "Dip each segment halfway into the chocolate, let the extra drip off and set it on the parchment. Sprinkle the pistachio mix and a few flakes of salt on the wet chocolate right away.",
+   "Chill in the fridge for 15 minutes, until the chocolate is set. Serve cold. They keep 2 days in a covered container in the fridge."
+  ],
+  "vo_steps": [
+   "Zest one clementine, peel all six, pull the segments apart and pat them dry.",
+   "Chop the pistachios and mix them with the zest.",
+   "Melt the chocolate and coconut oil in twenty second bursts until glossy.",
+   "Dip each segment halfway, then sprinkle pistachio and a little salt while it is wet.",
+   "Chill fifteen minutes and serve cold. They keep two days in the fridge."
+  ],
+  "person": "an Italian-American woman in her late 20s with olive skin, a healthy curvy figure, dark brown hair in a low ponytail and a warm bright smile, wearing a fitted cream turtleneck sweater with the sleeves pushed up and a striped linen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a parchment lined tray on a white marble counter covered with clementine segments, each half dipped in glossy dark chocolate and sprinkled with bright green chopped pistachios and flakes of sea salt, two whole clementines with green leaves and a few loose segments beside the tray, a small bowl of melted dark chocolate with a spoon, scattered pistachios, a sprig of evergreen and soft warm string lights blurred in the background, bright natural window light, vivid orange, deep brown and green colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she dips a clementine segment halfway into a small bowl of melted dark chocolate, a parchment lined tray of finished chocolate dipped segments sprinkled with chopped pistachios in front of her, a bowl of whole clementines, a small plate of chopped pistachios and a dish of flaky salt on the white marble counter, bright modern kitchen with light wood cabinets, a small evergreen branch in a jar and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a cozy kitchen table on a December afternoon with warm golden window light, laughing with her eyes crinkled as she holds up a chocolate dipped clementine segment with pistachios about to take a bite, a plate of more chocolate dipped clementines, a mug of tea, a small candle and a sprig of evergreen on the wooden table, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#chocolateclementines #healthydessert #darkchocolate #holidaydessert #nobake #clementines #pistachio #easydessert #fruitdessert #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
