@@ -2872,5 +2872,29 @@
   "post_id": 435206910,
   "uuid": "-1737006144146092766",
   "note": "Dec 4 16:00 ET; 10:00 lifestyle holiday calendar reel is live, 16:00 clears the 2-hour rule. Rendered 42.3 s, -16.5 dB, Piper length-scale 0.72."
+ },
+ {
+  "day": 206,
+  "task": "daily recipe reels",
+  "date": "2026-12-05",
+  "hook": "The holiday dessert that is mostly fruit: dark chocolate clementines, 6 ingredients, 20 minutes, no oven",
+  "title": "Dark Chocolate Clementines with Pistachio and Sea Salt",
+  "cuisine": "Italian inspired (Sicilian orange and pistachio)",
+  "meal": "Dessert",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-05/2026-12-05_chocolate_clementines.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-05/2026-12-05_chocolate_clementines_cover.jpg",
+  "text": "The holiday dessert that is mostly fruit: dark chocolate clementines, 6 ingredients, 20 minutes, no oven\n\nVitamin C and fiber from the fruit, antioxidants from dark chocolate, healthy fats from pistachios.\n\nDark Chocolate Clementines with Pistachio and Sea Salt\nServes 6 (about 50 pieces). Prep 15 min, cook 5 min, plus 15 min to chill.\n\nIngredients:\n- 6 clementines (or mandarins)\n- 4 oz dark chocolate (70 percent), chopped\n- 1 tsp coconut oil\n- 1/4 cup shelled pistachios, finely chopped\n- 1/2 tsp orange zest (zest one clementine before you peel it)\n- 1/4 tsp flaky sea salt\n\nSteps:\n1. Line a baking sheet with parchment. Zest one clementine, then peel all 6 and separate them into segments. Pat the segments dry with a paper towel so the chocolate sticks.\n2. Chop the pistachios finely and mix them with the orange zest on a small plate.\n3. Melt the chocolate with the coconut oil in a microwave safe bowl in 20 second bursts, stirring between each, about 60 to 80 seconds total, until smooth and glossy.\n4. Dip each segment halfway into the chocolate, let the extra drip off and set it on the parchment. Sprinkle the pistachio mix and a few flakes of salt on the wet chocolate right away.\n5. Chill in the fridge for 15 minutes, until the chocolate is set. Serve cold. They keep 2 days in a covered container in the fridge.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#chocolateclementines #healthydessert #darkchocolate #holidaydessert #nobake #clementines #pistachio #easydessert #fruitdessert #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Dark Chocolate Clementines with Pistachio and Sea Salt",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-21",
+  "audio": "music.py upbeat bed plus Piper narration, 43.5 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 436446713,
+  "uuid": "3320939749339185587",
+  "note": "Dec 5 16:00 ET; 10:00 lifestyle overnight oats reel is live, 16:00 clears the 2-hour rule. Rendered 43.5 s, -16.7 dB, Piper length-scale 0.87."
  }
 ]
