@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-12-06",
+  "slug": "persian_herb_frittata",
+  "title": "Persian Herb Frittata (Kuku Sabzi)",
+  "cuisine": "Persian (Iranian)",
+  "meal": "Breakfast",
+  "servings": "6",
+  "prep": "15 min",
+  "cook": "35 min",
+  "hook": "Sunday prep done: 6 grab-and-go breakfasts, one pan, mostly greens. Persian herb frittata",
+  "benefit": "High in protein from eggs, packed with fresh greens, with healthy fats from walnuts",
+  "ingredients": [
+   "8 large eggs",
+   "2 cups finely chopped fresh parsley (about 1 large bunch)",
+   "2 cups finely chopped fresh cilantro (about 1 large bunch)",
+   "1 cup finely chopped fresh dill",
+   "1 cup finely chopped scallions (about 6) or chives",
+   "1/3 cup walnuts, chopped",
+   "3 tbsp dried cranberries or barberries, chopped (optional)",
+   "2 tbsp whole wheat flour (or chickpea flour)",
+   "1 tsp baking powder",
+   "1 tsp ground turmeric",
+   "1 tsp salt",
+   "1/2 tsp black pepper",
+   "2 tbsp olive oil, divided",
+   "Plain Greek yogurt and lemon wedges, to serve"
+  ],
+  "key_ingredients": [
+   "8 eggs",
+   "2 cups parsley, chopped",
+   "2 cups cilantro, chopped",
+   "1 cup dill, 1 cup scallions",
+   "1/3 cup walnuts, chopped",
+   "1 tsp turmeric, 2 tbsp flour"
+  ],
+  "steps": [
+   "Heat the oven to 350F. Brush a 9-inch oven-safe skillet or pie dish with 1 tablespoon of the olive oil, bottom and sides.",
+   "Wash the herbs, spin or pat them very dry, and chop them finely along with the scallions (a food processor in short pulses works). Wet herbs make a soggy frittata, so dry them well.",
+   "Whisk the eggs with the flour, baking powder, turmeric, salt and pepper until smooth. Fold in the herbs, scallions, walnuts and cranberries. It should look like mostly herbs bound by a little egg.",
+   "Pour the mixture into the pan, smooth the top and drizzle with the remaining 1 tablespoon of oil. Bake for 30 to 35 minutes, until the center is set and a knife comes out clean.",
+   "Cool 10 minutes, then cut into 6 wedges. Serve warm or cold with a spoonful of yogurt and a squeeze of lemon. Keeps 4 days in the fridge; eat it cold or reheat 45 seconds."
+  ],
+  "vo_steps": [
+   "Heat the oven to 350 and oil a nine inch skillet or pie dish.",
+   "Wash and dry the herbs well, then chop them finely with the scallions.",
+   "Whisk the eggs with the flour, baking powder and spices, then fold in the herbs, walnuts and cranberries.",
+   "Pour it in, drizzle with oil and bake 30 to 35 minutes until set.",
+   "Cool ten minutes, cut into six wedges and serve with yogurt and lemon. Keeps four days."
+  ],
+  "person": "an Iranian-American man in his mid 30s with warm olive skin, short dark hair, a neatly trimmed beard, a lean athletic build and a warm genuine smile, wearing a fitted charcoal henley with the sleeves pushed up and a dark green canvas apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a deep green Persian herb frittata (kuku sabzi) cut into six wedges in a black cast iron skillet on a rustic wooden table, the cut sides showing a dense bright green herb interior flecked with walnuts and ruby dried barberries, golden brown crust on top, one wedge lifted onto a white plate with a spoonful of thick yogurt and a lemon wedge, bunches of fresh parsley, cilantro and dill, scattered walnuts and a small bowl of turmeric nearby, bright natural window light, vivid green, gold and white colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as he folds a huge pile of finely chopped bright green parsley, cilantro and dill into a glass bowl of whisked golden eggs with a wooden spoon, a cutting board heaped with chopped herbs, bunches of scallions, a small bowl of chopped walnuts and a dish of turmeric on the butcher block counter, a black cast iron skillet waiting beside him, bright modern kitchen with white tile and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a sunny kitchen table on a relaxed Sunday morning, laughing with his eyes crinkled as he lifts a fork with a bite of deep green herb frittata, a white plate in front of him with a wedge of kuku sabzi, a spoonful of yogurt and a lemon wedge, a glass meal prep container with more wedges and a mug of tea on the wooden table, a bunch of fresh herbs in a jar, warm golden window light, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#kukusabzi #persianfood #herbfrittata #mealprep #healthybreakfast #breakfastprep #sundayprep #highprotein #eatyourgreens #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
