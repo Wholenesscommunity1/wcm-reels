@@ -2921,5 +2921,30 @@
   "uuid": "-1608064582519075826",
   "note": "Dec 6 16:00 ET; 12:00 lifestyle purpose reel is live, 16:00 clears the 2-hour rule. Rendered 44.5 s, -16.5 dB, Piper length-scale 0.82.",
   "theme": "Recipe"
+ },
+ {
+  "day": 208,
+  "task": "daily recipe reels",
+  "date": "2026-12-07T16:00:00",
+  "hook": "Meal prep Monday: Filipino chicken adobo. One pot, 4 lunches, better by Wednesday",
+  "title": "Lighter Filipino Chicken Adobo Meal Prep Bowls",
+  "cuisine": "Filipino",
+  "meal": "Lunch",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-07/2026-12-07_filipino_chicken_adobo_bowls.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-07/2026-12-07_filipino_chicken_adobo_bowls_cover.jpg",
+  "text": "Meal prep Monday: Filipino chicken adobo. One pot, 4 lunches, better by Wednesday\n\nLean protein with fiber from brown rice and green beans.\n\nLighter Filipino Chicken Adobo Meal Prep Bowls\nServes 4. Prep 10 min, plus 15 min to marinate, cook 40 min.\n\nIngredients:\n- 1 1/2 lb boneless skinless chicken thighs, trimmed\n- 1/3 cup low-sodium soy sauce\n- 1/3 cup white vinegar (or apple cider vinegar)\n- 1/2 cup water\n- 6 cloves garlic, smashed\n- 3 bay leaves\n- 1 tsp whole black peppercorns (or 1/2 tsp cracked black pepper)\n- 1 tbsp avocado or olive oil\n- 1 small onion, sliced\n- 1 tsp brown sugar or honey (optional)\n- 1 cup brown rice (about 3 cups cooked)\n- 1 lb green beans, trimmed\n- 2 scallions, sliced\n- Lime wedges, to serve\n\nSteps:\n1. Toss the chicken with the soy sauce, vinegar, garlic, bay leaves and peppercorns in a bowl and let it marinate 15 minutes (or overnight). Meanwhile start the rice: 1 cup brown rice, 2 cups water, covered, on low for 40 to 45 minutes.\n2. Heat the oil in a large pot or deep skillet over medium-high. Lift the chicken out of the marinade (keep the marinade) and sear 3 minutes per side until browned. Add the onion and cook 2 minutes.\n3. Pour in the marinade and the water, bring to a boil, then cover and simmer on low for 20 minutes.\n4. Uncover and simmer 8 to 10 minutes more, until the sauce reduces to a glaze and the chicken reaches 165F inside. Taste and stir in the sugar or honey if you like it a touch sweeter.\n5. Steam the green beans in a skillet with 1/4 cup water, covered, for 4 minutes until bright green and tender-crisp.\n6. Divide the rice between 4 containers, top with the chicken and sauce, add the green beans, scallions and a lime wedge. Keeps 4 days in the fridge; reheat 90 seconds. The flavor gets better by day two.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#chickenadobo #filipinofood #mealprep #mealprepmonday #healthylunch #lunchprep #highprotein #onepotmeal #weeklunches #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Filipino chicken adobo meal prep bowls: one pot, 4 lunches",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-23",
+  "audio": "music.py upbeat bed plus Piper narration, 42.4 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 438380554,
+  "uuid": "5254891505434510987",
+  "note": "Dec 7 16:00 ET; 10:00 lifestyle connection reel is live, 16:00 clears the 2-hour rule. Rendered 42.4 s, -16.7 dB, Piper length-scale 0.87.",
+  "theme": "Recipe"
  }
 ]
