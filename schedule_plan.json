@@ -2946,5 +2946,30 @@
   "uuid": "5254891505434510987",
   "note": "Dec 7 16:00 ET; 10:00 lifestyle connection reel is live, 16:00 clears the 2-hour rule. Rendered 42.4 s, -16.7 dB, Piper length-scale 0.87.",
   "theme": "Recipe"
+ },
+ {
+  "day": 209,
+  "task": "daily recipe reels",
+  "date": "2026-12-08T15:00:00",
+  "hook": "One pot, 30 minutes: Brazilian fish stew that tastes like a beach in December",
+  "title": "Lighter Brazilian Fish Stew (Moqueca)",
+  "cuisine": "Brazilian",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-08/2026-12-08_brazilian_fish_stew_moqueca.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-08/2026-12-08_brazilian_fish_stew_moqueca_cover.jpg",
+  "text": "One pot, 30 minutes: Brazilian fish stew that tastes like a beach in December\n\nLean protein from fish with vitamin C from peppers and lime.\n\nLighter Brazilian Fish Stew (Moqueca)\nServes 4. Prep 15 min, cook 25 min.\n\nIngredients:\n- 1 1/2 lb firm white fish fillets (cod, halibut or mahi mahi), cut into 2-inch pieces\n- Juice of 2 limes, divided\n- 3 cloves garlic, minced\n- 1 tsp salt, divided\n- 1/2 tsp black pepper\n- 1 tbsp olive oil\n- 1 onion, thinly sliced\n- 1 red bell pepper, sliced\n- 1 yellow bell pepper, sliced\n- 1 tsp sweet paprika\n- 1/2 tsp ground cumin\n- 1/4 tsp red pepper flakes (optional)\n- 1 can (14.5 oz) diced tomatoes\n- 1 can (13.5 oz) light coconut milk\n- 1/2 cup low-sodium vegetable broth\n- 1/2 cup chopped cilantro, plus more to serve\n- 2 scallions, sliced\n- 3 cups cooked brown rice, to serve\n\nSteps:\n1. Toss the fish with the juice of 1 lime, the garlic, 1/2 teaspoon salt and the pepper. Let it sit in the fridge 15 minutes while you slice the vegetables.\n2. Heat the oil in a large deep skillet or Dutch oven over medium. Cook the onion 4 minutes, add both bell peppers and cook 4 minutes more until soft. Stir in the paprika, cumin and red pepper flakes for 30 seconds.\n3. Add the tomatoes with their juice, the coconut milk, broth and the other 1/2 teaspoon salt. Bring to a simmer and cook 8 minutes so the sauce thickens a little.\n4. Nestle the fish into the sauce in a single layer, spoon some sauce over the top, cover and simmer gently on medium-low for 8 to 10 minutes, until the fish flakes easily and reaches 145F inside.\n5. Take the pan off the heat and stir in the cilantro, scallions and the rest of the lime juice. Taste and add a pinch more salt if it needs it.\n6. Serve over brown rice with extra cilantro and lime wedges. Leftovers keep 2 days in the fridge; reheat gently so the fish stays tender.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#moqueca #brazilianfood #fishstew #onepotmeal #healthydinner #30minutemeals #weeknightdinner #coconutmilk #seafoodrecipes #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "One-Pot Brazilian Fish Stew in 30 Minutes",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-24",
+  "audio": "music.py upbeat bed plus Piper narration, 41.8 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 439902145,
+  "uuid": "786711898717112192",
+  "note": "Dec 8 15:00 ET; the 18:00 lifestyle black bean taco reel is live, so 15:00 leaves a 3-hour gap (16:00 would have been exactly 2 hours)",
+  "theme": "Recipe"
  }
 ]
