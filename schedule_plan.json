@@ -2971,5 +2971,30 @@
   "uuid": "786711898717112192",
   "note": "Dec 8 15:00 ET; the 18:00 lifestyle black bean taco reel is live, so 15:00 leaves a 3-hour gap (16:00 would have been exactly 2 hours)",
   "theme": "Recipe"
+ },
+ {
+  "day": 210,
+  "task": "daily recipe reels",
+  "date": "2026-12-09T16:00:00",
+  "hook": "One pot, 6 bowls, freezes for a month: Tuscan white bean soup in 40 minutes",
+  "title": "One-Pot Tuscan White Bean Soup with Turkey Sausage and Kale",
+  "cuisine": "Italian",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-09/2026-12-09_tuscan_white_bean_soup.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-09/2026-12-09_tuscan_white_bean_soup_cover.jpg",
+  "text": "One pot, 6 bowls, freezes for a month: Tuscan white bean soup in 40 minutes\n\nHigh in fiber and protein from the beans and turkey, with iron and vitamin K from the kale.\n\nOne-Pot Tuscan White Bean Soup with Turkey Sausage and Kale\nServes 6. Prep 10 min, cook 30 min.\n\nIngredients:\n- 1 tbsp olive oil\n- 12 oz lean Italian turkey sausage (or chicken sausage), casings removed\n- 1 yellow onion, diced\n- 2 carrots, diced\n- 2 celery stalks, diced\n- 4 cloves garlic, minced\n- 1 tsp dried rosemary (or 1 tbsp fresh, chopped)\n- 1/2 tsp dried thyme\n- 1/4 tsp red pepper flakes\n- 2 cans (15 oz each) cannellini beans, drained and rinsed\n- 1 can (14.5 oz) fire-roasted diced tomatoes\n- 5 cups low-sodium chicken broth\n- 1 Parmesan rind (optional)\n- 1 bunch lacinato kale (about 5 cups), stems removed, chopped\n- Juice of 1/2 lemon\n- Salt and black pepper to taste\n- 1/4 cup grated Parmesan, to serve\n\nSteps:\n1. Heat the oil in a large pot over medium-high. Add the sausage and cook 5 to 6 minutes, breaking it up with a spoon, until browned and cooked through.\n2. Add the onion, carrots and celery and cook 5 minutes until softened. Stir in the garlic, rosemary, thyme and red pepper flakes for 30 seconds.\n3. Mash 1 cup of the beans with a fork (this thickens the broth with no cream). Add them with the whole beans, the tomatoes with their juice, the broth and the Parmesan rind. Bring to a boil, then simmer 12 minutes.\n4. Stir in the kale and simmer 3 to 4 minutes until tender and bright green. Fish out the rind.\n5. Take the pot off the heat and stir in the lemon juice. Taste and season with salt and pepper.\n6. Serve with grated Parmesan. Keeps 4 days in the fridge and freezes well for up to a month.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#whitebeansoup #tuscansoup #onepotmeal #souprecipe #healthydinner #mealprep #freezermeals #kalerecipes #highfiber #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "One-Pot Tuscan White Bean Soup in 40 Minutes",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-25",
+  "audio": "music.py upbeat bed plus Piper narration, 43.4 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 441349759,
+  "uuid": "5926137819999780977",
+  "note": "Dec 9 16:00 ET; the 10:00 lifestyle reel is live, so 16:00 leaves a 6-hour gap; Dec 10 holds an 18:00 lifestyle reel",
+  "theme": "Recipe"
  }
 ]
