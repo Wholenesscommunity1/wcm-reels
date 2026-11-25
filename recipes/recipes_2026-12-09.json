@@ -1,0 +1,63 @@
+[
+ {
+  "date": "2026-12-09",
+  "slug": "tuscan_white_bean_soup",
+  "title": "One-Pot Tuscan White Bean Soup with Turkey Sausage and Kale",
+  "cuisine": "Italian",
+  "meal": "Dinner",
+  "servings": "6",
+  "prep": "10 min",
+  "cook": "30 min",
+  "hook": "One pot, 6 bowls, freezes for a month: Tuscan white bean soup in 40 minutes",
+  "benefit": "High in fiber and protein from the beans and turkey, with iron and vitamin K from the kale",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "12 oz lean Italian turkey sausage (or chicken sausage), casings removed",
+   "1 yellow onion, diced",
+   "2 carrots, diced",
+   "2 celery stalks, diced",
+   "4 cloves garlic, minced",
+   "1 tsp dried rosemary (or 1 tbsp fresh, chopped)",
+   "1/2 tsp dried thyme",
+   "1/4 tsp red pepper flakes",
+   "2 cans (15 oz each) cannellini beans, drained and rinsed",
+   "1 can (14.5 oz) fire-roasted diced tomatoes",
+   "5 cups low-sodium chicken broth",
+   "1 Parmesan rind (optional)",
+   "1 bunch lacinato kale (about 5 cups), stems removed, chopped",
+   "Juice of 1/2 lemon",
+   "Salt and black pepper to taste",
+   "1/4 cup grated Parmesan, to serve"
+  ],
+  "key_ingredients": [
+   "12 oz turkey sausage",
+   "2 cans cannellini beans",
+   "1 onion, 2 carrots, 2 celery",
+   "1 can fire-roasted tomatoes",
+   "5 cups chicken broth",
+   "1 bunch kale, 1/2 lemon"
+  ],
+  "steps": [
+   "Heat the oil in a large pot over medium-high. Add the sausage and cook 5 to 6 minutes, breaking it up with a spoon, until browned and cooked through.",
+   "Add the onion, carrots and celery and cook 5 minutes until softened. Stir in the garlic, rosemary, thyme and red pepper flakes for 30 seconds.",
+   "Mash 1 cup of the beans with a fork (this thickens the broth with no cream). Add them with the whole beans, the tomatoes with their juice, the broth and the Parmesan rind. Bring to a boil, then simmer 12 minutes.",
+   "Stir in the kale and simmer 3 to 4 minutes until tender and bright green. Fish out the rind.",
+   "Take the pot off the heat and stir in the lemon juice. Taste and season with salt and pepper.",
+   "Serve with grated Parmesan. Keeps 4 days in the fridge and freezes well for up to a month."
+  ],
+  "vo_steps": [
+   "Brown the turkey sausage in olive oil, breaking it up as it cooks.",
+   "Soften the onion, carrots and celery, then stir in garlic, rosemary and thyme.",
+   "Mash a cup of the beans, then add everything with the tomatoes and broth, and simmer twelve minutes.",
+   "Stir in the kale and cook three more minutes.",
+   "Off the heat, finish with lemon, salt and pepper.",
+   "Serve with Parmesan, and freeze the rest for busy nights."
+  ],
+  "person": "an Italian-American woman in her late 50s with warm olive skin, shoulder-length dark hair streaked with silver, a healthy curvy figure and a bright easy smile, wearing a fitted navy knit top with the sleeves pushed up and a cream and sage striped linen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a rustic white ceramic bowl of Tuscan white bean soup, creamy golden broth with cannellini beans, crumbled browned turkey sausage, diced carrots, dark green ribbons of lacinato kale and flecks of fire-roasted tomato, a dusting of grated Parmesan and cracked black pepper on top, a wedge of lemon and a sprig of rosemary beside the bowl, a big enameled Dutch oven of soup softly blurred behind it, a few cannellini beans, a bunch of kale and a chunk of Parmesan on a warm wooden table, bright natural window light, vivid green, orange and golden colors, steam rising, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she stirs a big enameled Dutch oven of simmering Tuscan white bean soup with kale and carrots, steam rising, a wooden spoon in her hand, a cutting board with chopped kale, diced carrots, celery, onion and garlic on the counter, a can of cannellini beans and a wedge of Parmesan nearby, bright modern kitchen with white walls, herbs on the windowsill and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a bright kitchen table on a winter evening with warm lamp light and a window behind her, laughing with her eyes crinkled as she lifts a spoonful of golden white bean soup with kale from a rustic bowl, the Dutch oven of soup and a basket of whole grain bread in the middle of the table, a glass of sparkling water with lemon beside her, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#whitebeansoup #tuscansoup #onepotmeal #souprecipe #healthydinner #mealprep #freezermeals #kalerecipes #highfiber #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
