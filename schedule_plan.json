@@ -2996,5 +2996,30 @@
   "uuid": "5926137819999780977",
   "note": "Dec 9 16:00 ET; the 10:00 lifestyle reel is live, so 16:00 leaves a 6-hour gap; Dec 10 holds an 18:00 lifestyle reel",
   "theme": "Recipe"
+ },
+ {
+  "day": 211,
+  "task": "daily recipe reels",
+  "date": "2026-12-10T15:00:00",
+  "hook": "4 lunches, 35 minutes: Vietnamese lemongrass chicken noodle bowls that beat takeout",
+  "title": "Vietnamese Lemongrass Chicken Noodle Bowls (Bun Ga Nuong)",
+  "cuisine": "Vietnamese",
+  "meal": "Lunch",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-10/2026-12-10_lemongrass_chicken_noodle_bowls.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-10/2026-12-10_lemongrass_chicken_noodle_bowls_cover.jpg",
+  "text": "4 lunches, 35 minutes: Vietnamese lemongrass chicken noodle bowls that beat takeout\n\nLean protein with a pile of crunchy vegetables and fresh herbs, and very little oil.\n\nVietnamese Lemongrass Chicken Noodle Bowls (Bun Ga Nuong)\nServes 4. Prep 20 min (plus 15 min to marinate), cook 15 min.\n\nIngredients:\n- 1 1/4 lb boneless skinless chicken thighs\n- 2 stalks lemongrass, tender inner core finely minced (about 3 tbsp), or 2 tbsp lemongrass paste\n- 3 cloves garlic, minced\n- 2 tbsp fish sauce (for the marinade)\n- 1 tbsp low-sodium soy sauce\n- 1 tbsp brown sugar or honey\n- 1 tbsp avocado or neutral oil\n- 1/2 tsp black pepper\n- 8 oz rice vermicelli noodles\n- Dressing (nuoc cham): 3 tbsp fish sauce\n- 3 tbsp fresh lime juice (about 2 limes)\n- 3 tbsp warm water\n- 1 tbsp sugar or honey\n- 1 small clove garlic, minced\n- 1 red chili, thinly sliced (optional)\n- 4 cups shredded romaine or butter lettuce\n- 1 English cucumber, cut into matchsticks\n- 2 cups shredded carrots\n- 1 cup bean sprouts\n- 1 cup fresh mint and cilantro leaves (Thai basil too, if you can find it)\n- 1/4 cup roasted peanuts, chopped\n- Lime wedges, to serve\n\nSteps:\n1. Stir the lemongrass, garlic, 2 tbsp fish sauce, soy sauce, brown sugar, oil and pepper. Coat the chicken and marinate 15 minutes (or overnight in the fridge).\n2. Boil the vermicelli 3 to 4 minutes (or soak 5 minutes in just-boiled water), drain, rinse cold and drain well.\n3. Whisk 3 tbsp fish sauce, the lime juice, warm water, sugar, garlic and chili until the sugar dissolves.\n4. Cook the chicken in a hot skillet or grill pan over medium-high, 5 to 6 minutes per side, until charred and 165F inside. Rest 5 minutes and slice.\n5. Layer 4 bowls: lettuce, noodles, cucumber, carrots and sprouts, then chicken, herbs and peanuts.\n6. Add 3 tbsp dressing and a squeeze of lime right before eating. For meal prep, pack the herbs and dressing on the side; keeps 4 days in the fridge.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#bunga #vietnamesefood #lemongrasschicken #noodlebowl #mealprep #healthylunch #lunchprep #highprotein #freshherbs #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Vietnamese Lemongrass Chicken Noodle Bowls, 4 Lunches in 35 Minutes",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-26",
+  "audio": "music.py upbeat bed plus Piper narration, 45.1 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 442748426,
+  "uuid": "-5715756664804063615",
+  "note": "Dec 10 15:00 ET; the 18:00 lifestyle reel is live, so 15:00 leaves a 3-hour gap; Dec 11 holds a 10:00 lifestyle reel",
+  "theme": "Recipe"
  }
 ]
