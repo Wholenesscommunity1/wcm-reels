@@ -1,0 +1,68 @@
+[
+ {
+  "date": "2026-12-10",
+  "slug": "lemongrass_chicken_noodle_bowls",
+  "title": "Vietnamese Lemongrass Chicken Noodle Bowls (Bun Ga Nuong)",
+  "cuisine": "Vietnamese",
+  "meal": "Lunch",
+  "servings": "4",
+  "prep": "20 min (plus 15 min to marinate)",
+  "cook": "15 min",
+  "hook": "4 lunches, 35 minutes: Vietnamese lemongrass chicken noodle bowls that beat takeout",
+  "benefit": "Lean protein with a pile of crunchy vegetables and fresh herbs, and very little oil",
+  "ingredients": [
+   "1 1/4 lb boneless skinless chicken thighs",
+   "2 stalks lemongrass, tender inner core finely minced (about 3 tbsp), or 2 tbsp lemongrass paste",
+   "3 cloves garlic, minced",
+   "2 tbsp fish sauce (for the marinade)",
+   "1 tbsp low-sodium soy sauce",
+   "1 tbsp brown sugar or honey",
+   "1 tbsp avocado or neutral oil",
+   "1/2 tsp black pepper",
+   "8 oz rice vermicelli noodles",
+   "Dressing (nuoc cham): 3 tbsp fish sauce",
+   "3 tbsp fresh lime juice (about 2 limes)",
+   "3 tbsp warm water",
+   "1 tbsp sugar or honey",
+   "1 small clove garlic, minced",
+   "1 red chili, thinly sliced (optional)",
+   "4 cups shredded romaine or butter lettuce",
+   "1 English cucumber, cut into matchsticks",
+   "2 cups shredded carrots",
+   "1 cup bean sprouts",
+   "1 cup fresh mint and cilantro leaves (Thai basil too, if you can find it)",
+   "1/4 cup roasted peanuts, chopped",
+   "Lime wedges, to serve"
+  ],
+  "key_ingredients": [
+   "1 1/4 lb chicken thighs",
+   "2 stalks lemongrass, 3 cloves garlic",
+   "2 tbsp fish sauce, 1 tbsp soy, 1 tbsp brown sugar",
+   "8 oz rice vermicelli",
+   "Dressing: 3 tbsp fish sauce, 2 limes, 1 tbsp sugar",
+   "Cucumber, carrots, lettuce, sprouts, herbs, peanuts"
+  ],
+  "steps": [
+   "Stir the lemongrass, garlic, 2 tbsp fish sauce, soy sauce, brown sugar, oil and pepper. Coat the chicken and marinate 15 minutes (or overnight in the fridge).",
+   "Boil the vermicelli 3 to 4 minutes (or soak 5 minutes in just-boiled water), drain, rinse cold and drain well.",
+   "Whisk 3 tbsp fish sauce, the lime juice, warm water, sugar, garlic and chili until the sugar dissolves.",
+   "Cook the chicken in a hot skillet or grill pan over medium-high, 5 to 6 minutes per side, until charred and 165F inside. Rest 5 minutes and slice.",
+   "Layer 4 bowls: lettuce, noodles, cucumber, carrots and sprouts, then chicken, herbs and peanuts.",
+   "Add 3 tbsp dressing and a squeeze of lime right before eating. For meal prep, pack the herbs and dressing on the side; keeps 4 days in the fridge."
+  ],
+  "vo_steps": [
+   "Marinate the chicken in lemongrass, garlic, fish sauce, soy and brown sugar for fifteen minutes.",
+   "Boil the rice noodles three to four minutes and rinse them cold.",
+   "Whisk fish sauce, lime, water, sugar, garlic and chili for the dressing.",
+   "Sear the chicken five to six minutes a side until charred, then slice.",
+   "Layer lettuce, noodles, cucumber, carrots, sprouts, chicken, herbs and peanuts.",
+   "Dressing on right before eating. Four lunches, done."
+  ],
+  "person": "a Vietnamese-American man in his early 30s with warm light-tan skin, a slim athletic build, short black hair neatly styled, a clean-shaven face and a warm open smile, wearing a fitted heather-grey henley with the sleeves pushed up and a dark indigo denim apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a wide white ceramic bowl of Vietnamese bun ga nuong, a nest of thin white rice vermicelli over shredded green lettuce, topped with sliced grilled lemongrass chicken thigh with charred caramelized edges, bright orange shredded carrot, pale green cucumber matchsticks, crisp bean sprouts, a tangle of fresh mint, cilantro and Thai basil, chopped roasted peanuts and thin red chili slices, a small glass dish of golden nuoc cham dressing with chili and a lime wedge beside the bowl, three more packed glass meal prep containers softly blurred behind it, a stalk of lemongrass and a bunch of mint on a light wooden table, bright natural window light, vivid green, orange and golden colors, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as he turns golden charred lemongrass chicken thighs with tongs in a hot cast iron grill pan, a little steam rising, a cutting board beside the stove with minced lemongrass, garlic, limes, a bowl of cooked rice vermicelli, shredded carrots, cucumber matchsticks and fresh mint and cilantro, a small bottle of fish sauce nearby, bright modern kitchen with white tiles, plants on the windowsill and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a bright kitchen table at lunchtime, laughing with his eyes crinkled as he lifts a tangle of rice noodles and grilled lemongrass chicken with chopsticks from a colorful bowl piled with herbs, carrots and cucumber, a small dish of nuoc cham and a lime wedge beside the bowl, three packed glass meal prep containers of the same noodle bowls lined up on the table, a glass of iced tea with mint beside him, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#bunga #vietnamesefood #lemongrasschicken #noodlebowl #mealprep #healthylunch #lunchprep #highprotein #freshherbs #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
