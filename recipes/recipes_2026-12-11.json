@@ -1,0 +1,68 @@
+[
+ {
+  "date": "2026-12-11",
+  "slug": "lighter_butter_chicken",
+  "title": "Lighter One-Pot Butter Chicken (Murgh Makhani)",
+  "cuisine": "Indian",
+  "meal": "Dinner",
+  "servings": "4",
+  "prep": "15 min (plus 15 min to marinate)",
+  "cook": "30 min",
+  "hook": "Friday night butter chicken, lightened up: one pot, 30 minutes, no heavy cream",
+  "benefit": "High in protein, with a fraction of the butter and cream of takeout",
+  "ingredients": [
+   "1 1/2 lb boneless skinless chicken thighs, cut into 1 1/2-inch pieces",
+   "Marinade: 1/2 cup plain Greek yogurt",
+   "1 tbsp lemon juice",
+   "2 tsp garam masala",
+   "1 tsp ground turmeric",
+   "1 tsp ground cumin",
+   "1 tsp Kashmiri chili powder or sweet paprika",
+   "1 tsp salt",
+   "1 tbsp ghee or avocado oil",
+   "1 large onion, finely diced",
+   "4 cloves garlic, minced",
+   "1 tbsp grated fresh ginger",
+   "1 tbsp tomato paste",
+   "1 tsp ground coriander",
+   "1 can (15 oz) no-salt-added tomato sauce",
+   "1 cup low-sodium chicken broth",
+   "3 cups small cauliflower florets",
+   "1/2 cup light coconut milk",
+   "1 tbsp butter",
+   "1 tbsp dried fenugreek leaves (kasuri methi), optional",
+   "1 tsp honey, optional",
+   "Chopped cilantro and cooked brown rice, to serve"
+  ],
+  "key_ingredients": [
+   "1 1/2 lb chicken thighs",
+   "1/2 cup yogurt, 2 tsp garam masala",
+   "1 onion, 4 cloves garlic, 1 tbsp ginger",
+   "15 oz tomato sauce, 1 cup broth",
+   "3 cups cauliflower florets",
+   "1/2 cup coconut milk, 1 tbsp butter"
+  ],
+  "steps": [
+   "Stir the yogurt, lemon juice, garam masala, turmeric, cumin, chili powder and salt. Coat the chicken and marinate 15 minutes (or overnight).",
+   "Heat the ghee in a large deep skillet over medium-high. Sear the chicken in two batches, 3 minutes per side, until browned. Move it to a plate.",
+   "Lower the heat to medium. Cook the onion 5 minutes, then the garlic, ginger, tomato paste and coriander for 1 minute.",
+   "Add the tomato sauce and broth, scraping up the browned bits. Simmer 5 minutes, then blend smooth with an immersion blender if you like.",
+   "Add the cauliflower and the chicken with its juices. Simmer uncovered 12 to 15 minutes, until the cauliflower is tender and the chicken reaches 165F.",
+   "Off the heat, stir in the coconut milk, butter, fenugreek and honey. Top with cilantro, serve over brown rice. Keeps 4 days; freezes 2 months."
+  ],
+  "vo_steps": [
+   "Marinate the chicken in yogurt, garam masala, turmeric and cumin for fifteen minutes.",
+   "Sear it three minutes a side, then set it aside.",
+   "Onion for five minutes, then garlic, ginger, tomato paste and coriander.",
+   "Add tomato sauce and broth, simmer five minutes, blend it smooth.",
+   "Add cauliflower and the chicken. Simmer twelve to fifteen minutes.",
+   "Off the heat, stir in coconut milk and a tablespoon of butter. Done."
+  ],
+  "person": "an Indian-American woman in her mid 40s with medium-deep brown skin, a healthy curvy build, long dark hair in a loose side braid, small gold hoop earrings and a warm confident smile, wearing a fitted mustard-yellow blouse with the sleeves rolled and a natural linen apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a wide shallow dark-glazed ceramic bowl of lighter butter chicken, tender golden-brown chicken thigh pieces and small cauliflower florets in a glossy bright orange-red tomato sauce with a thin swirl of coconut milk on top, scattered fresh chopped cilantro, a bowl of fluffy brown rice and a lemon wedge beside it, a small dish of garam masala and a sprig of cilantro on a warm wooden table, a folded linen napkin, bright natural window light, vivid orange, green and golden colors, steam gently rising, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as she stirs a large deep skillet of bubbling bright orange butter chicken sauce with golden seared chicken pieces and cauliflower florets with a wooden spoon, a little steam rising, a cutting board beside the stove with a diced onion, garlic cloves, a knob of fresh ginger, a small bowl of garam masala, a can of tomato sauce and a bunch of cilantro, bright modern kitchen with white tiles, copper pans on the wall and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a warm candlelit dinner table on a Friday evening, laughing with her eyes crinkled as she lifts a spoonful of butter chicken and brown rice from a dark ceramic bowl, a second bowl and a small plate of lemon wedges and cilantro on the table, a glass of sparkling water with lime beside her, string lights softly blurred in the background, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#butterchicken #murghmakhani #indianfood #onepotmeal #healthydinner #30minutemeals #fridaydinner #highprotein #curry #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
