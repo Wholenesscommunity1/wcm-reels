@@ -3021,5 +3021,30 @@
   "uuid": "-5715756664804063615",
   "note": "Dec 10 15:00 ET; the 18:00 lifestyle reel is live, so 15:00 leaves a 3-hour gap; Dec 11 holds a 10:00 lifestyle reel",
   "theme": "Recipe"
+ },
+ {
+  "day": 212,
+  "task": "daily recipe reels",
+  "date": "2026-12-11T16:00:00",
+  "hook": "Friday night butter chicken, lightened up: one pot, 30 minutes, no heavy cream",
+  "title": "Lighter One-Pot Butter Chicken (Murgh Makhani)",
+  "cuisine": "Indian",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-11/2026-12-11_lighter_butter_chicken.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-11/2026-12-11_lighter_butter_chicken_cover.jpg",
+  "text": "Friday night butter chicken, lightened up: one pot, 30 minutes, no heavy cream\n\nHigh in protein, with a fraction of the butter and cream of takeout.\n\nLighter One-Pot Butter Chicken (Murgh Makhani)\nServes 4. Prep 15 min (plus 15 min to marinate), cook 30 min.\n\nIngredients:\n- 1 1/2 lb boneless skinless chicken thighs, cut into 1 1/2-inch pieces\n- Marinade: 1/2 cup plain Greek yogurt\n- 1 tbsp lemon juice\n- 2 tsp garam masala\n- 1 tsp ground turmeric\n- 1 tsp ground cumin\n- 1 tsp Kashmiri chili powder or sweet paprika\n- 1 tsp salt\n- 1 tbsp ghee or avocado oil\n- 1 large onion, finely diced\n- 4 cloves garlic, minced\n- 1 tbsp grated fresh ginger\n- 1 tbsp tomato paste\n- 1 tsp ground coriander\n- 1 can (15 oz) no-salt-added tomato sauce\n- 1 cup low-sodium chicken broth\n- 3 cups small cauliflower florets\n- 1/2 cup light coconut milk\n- 1 tbsp butter\n- 1 tbsp dried fenugreek leaves (kasuri methi), optional\n- 1 tsp honey, optional\n- Chopped cilantro and cooked brown rice, to serve\n\nSteps:\n1. Stir the yogurt, lemon juice, garam masala, turmeric, cumin, chili powder and salt. Coat the chicken and marinate 15 minutes (or overnight).\n2. Heat the ghee in a large deep skillet over medium-high. Sear the chicken in two batches, 3 minutes per side, until browned. Move it to a plate.\n3. Lower the heat to medium. Cook the onion 5 minutes, then the garlic, ginger, tomato paste and coriander for 1 minute.\n4. Add the tomato sauce and broth, scraping up the browned bits. Simmer 5 minutes, then blend smooth with an immersion blender if you like.\n5. Add the cauliflower and the chicken with its juices. Simmer uncovered 12 to 15 minutes, until the cauliflower is tender and the chicken reaches 165F.\n6. Off the heat, stir in the coconut milk, butter, fenugreek and honey. Top with cilantro, serve over brown rice. Keeps 4 days; freezes 2 months.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#butterchicken #murghmakhani #indianfood #onepotmeal #healthydinner #30minutemeals #fridaydinner #highprotein #curry #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Lighter One-Pot Butter Chicken, Friday Dinner in 30 Minutes",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-27",
+  "audio": "music.py upbeat bed plus Piper narration, 43.9 s, -16.6 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 444016139,
+  "uuid": "-4669751621074073005",
+  "note": "Dec 11 16:00 ET; the 10:00 lifestyle reel is live, so 16:00 clears the 2-hour rule; Dec 12 holds a 10:00 lifestyle reel",
+  "theme": "Recipe"
  }
 ]
