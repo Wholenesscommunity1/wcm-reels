@@ -3046,5 +3046,30 @@
   "uuid": "-4669751621074073005",
   "note": "Dec 11 16:00 ET; the 10:00 lifestyle reel is live, so 16:00 clears the 2-hour rule; Dec 12 holds a 10:00 lifestyle reel",
   "theme": "Recipe"
+ },
+ {
+  "day": 213,
+  "task": "daily recipe reels",
+  "date": "2026-12-12T16:00:00",
+  "hook": "Saturday steak night, Peruvian style: lomo saltado in 30 minutes, with oven fries",
+  "title": "Lighter Peruvian Lomo Saltado with Oven Fries",
+  "cuisine": "Peruvian",
+  "meal": "Dinner",
+  "media": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-12/2026-12-12_lomo_saltado.mp4",
+  "cover": "https://raw.githubusercontent.com/Wholenesscommunity1/wcm-reels/main/recipes/2026-12-12/2026-12-12_lomo_saltado_cover.jpg",
+  "text": "Saturday steak night, Peruvian style: lomo saltado in 30 minutes, with oven fries\n\nHigh in protein and iron, with oven fries instead of fried.\n\nLighter Peruvian Lomo Saltado with Oven Fries\nServes 4. Prep 15 min, cook 30 min.\n\nIngredients:\n- 1 lb lean sirloin or flank steak, sliced into thin 1/2-inch strips\n- 1 tsp salt, divided\n- 1/2 tsp black pepper\n- 1 tsp ground cumin\n- 1 1/2 lb Yukon gold potatoes, cut into 1/2-inch fries\n- 2 tbsp avocado oil, divided\n- 1 large red onion, cut into thick wedges\n- 3 cloves garlic, minced\n- 1 tbsp aji amarillo paste (or 1 jalapeno, thinly sliced)\n- 3 Roma tomatoes, cut into wedges\n- 3 tbsp low-sodium soy sauce\n- 2 tbsp red wine vinegar\n- 1/4 cup low-sodium beef or chicken broth\n- 1/2 cup chopped fresh cilantro\n- 3 cups cooked brown rice, to serve\n- 1 lime, cut into wedges\n\nSteps:\n1. Heat the oven to 450F. Toss the potatoes with 1 tbsp oil and 1/2 tsp salt on a lined sheet pan in one layer. Roast 25 to 30 minutes, flipping halfway, until golden and crisp.\n2. Pat the steak dry and season with the cumin, pepper and remaining 1/2 tsp salt. Stir the soy sauce, vinegar and broth in a small bowl.\n3. Heat the remaining 1 tbsp oil in a large skillet or wok over high heat until it just smokes. Sear the steak in two batches, 1 to 2 minutes each, until browned but still pink inside. Move to a plate.\n4. Stir-fry the onion 2 minutes until the edges char. Add the garlic and aji amarillo for 30 seconds, then the tomatoes for 1 minute, so they soften but hold their shape.\n5. Return the steak and its juices, pour in the sauce and toss 1 minute until it bubbles and coats everything. Off the heat, fold in the cilantro and half the fries.\n6. Serve over the brown rice with the rest of the fries on top and lime wedges to squeeze over. Leftovers keep 3 days in the fridge.\n\nTake the free Wholeness Assessment at wholenesscommunitymarketplace.com (link in bio).\n\n#lomosaltado #peruvianfood #steakstirfry #30minutemeals #onepanmeal #healthydinner #saturdaynightdinner #highprotein #ovenfries #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "networks": [
+   "instagram",
+   "facebook"
+  ],
+  "facebook_title": "Lighter Peruvian Lomo Saltado, Saturday Steak Night in 30 Minutes",
+  "isAiGenerated": true,
+  "scheduled_on": "2026-11-28",
+  "audio": "music.py upbeat bed plus Piper narration, 44.7 s, -16.7 dB mean",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)",
+  "post_id": 445212008,
+  "uuid": "-7767418610561825616",
+  "note": "Dec 12 16:00 ET; the 10:00 lifestyle reel is live, so 16:00 clears the 2-hour rule; Dec 13 holds a 12:00 lifestyle reel",
+  "theme": "Recipe"
  }
 ]
