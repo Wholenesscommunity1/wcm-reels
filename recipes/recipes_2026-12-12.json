@@ -1,0 +1,62 @@
+[
+ {
+  "date": "2026-12-12",
+  "slug": "lomo_saltado",
+  "title": "Lighter Peruvian Lomo Saltado with Oven Fries",
+  "cuisine": "Peruvian",
+  "meal": "Dinner",
+  "servings": "4",
+  "prep": "15 min",
+  "cook": "30 min",
+  "hook": "Saturday steak night, Peruvian style: lomo saltado in 30 minutes, with oven fries",
+  "benefit": "High in protein and iron, with oven fries instead of fried",
+  "ingredients": [
+   "1 lb lean sirloin or flank steak, sliced into thin 1/2-inch strips",
+   "1 tsp salt, divided",
+   "1/2 tsp black pepper",
+   "1 tsp ground cumin",
+   "1 1/2 lb Yukon gold potatoes, cut into 1/2-inch fries",
+   "2 tbsp avocado oil, divided",
+   "1 large red onion, cut into thick wedges",
+   "3 cloves garlic, minced",
+   "1 tbsp aji amarillo paste (or 1 jalapeno, thinly sliced)",
+   "3 Roma tomatoes, cut into wedges",
+   "3 tbsp low-sodium soy sauce",
+   "2 tbsp red wine vinegar",
+   "1/4 cup low-sodium beef or chicken broth",
+   "1/2 cup chopped fresh cilantro",
+   "3 cups cooked brown rice, to serve",
+   "1 lime, cut into wedges"
+  ],
+  "key_ingredients": [
+   "1 lb lean sirloin, sliced thin",
+   "1 1/2 lb potatoes, cut into fries",
+   "1 red onion, 3 Roma tomatoes",
+   "3 tbsp soy sauce, 2 tbsp vinegar",
+   "1 tbsp aji amarillo paste",
+   "1/2 cup cilantro, brown rice to serve"
+  ],
+  "steps": [
+   "Heat the oven to 450F. Toss the potatoes with 1 tbsp oil and 1/2 tsp salt on a lined sheet pan in one layer. Roast 25 to 30 minutes, flipping halfway, until golden and crisp.",
+   "Pat the steak dry and season with the cumin, pepper and remaining 1/2 tsp salt. Stir the soy sauce, vinegar and broth in a small bowl.",
+   "Heat the remaining 1 tbsp oil in a large skillet or wok over high heat until it just smokes. Sear the steak in two batches, 1 to 2 minutes each, until browned but still pink inside. Move to a plate.",
+   "Stir-fry the onion 2 minutes until the edges char. Add the garlic and aji amarillo for 30 seconds, then the tomatoes for 1 minute, so they soften but hold their shape.",
+   "Return the steak and its juices, pour in the sauce and toss 1 minute until it bubbles and coats everything. Off the heat, fold in the cilantro and half the fries.",
+   "Serve over the brown rice with the rest of the fries on top and lime wedges to squeeze over. Leftovers keep 3 days in the fridge."
+  ],
+  "vo_steps": [
+   "Oven to four fifty. Roast the fries twenty five to thirty minutes.",
+   "Season the steak with cumin, salt and pepper. Mix soy, vinegar and broth.",
+   "Sear the steak in a smoking hot pan, one to two minutes a batch.",
+   "Onion two minutes, then garlic and aji amarillo, then tomatoes one minute.",
+   "Steak back in with the sauce, toss one minute. Fold in cilantro and half the fries.",
+   "Serve over brown rice with the rest of the fries and a squeeze of lime."
+  ],
+  "person": "an Afro-Peruvian man in his late 30s with deep brown skin, a muscular athletic build, short cropped hair and a neat beard, a warm wide smile, wearing a fitted charcoal henley with the sleeves pushed up and a dark denim apron",
+  "hero_prompt": "Photorealistic food photography, vertical composition: a wide white ceramic plate of Peruvian lomo saltado, glossy seared strips of steak tossed with charred red onion wedges and bright red tomato wedges in a dark soy-vinegar pan sauce, golden oven-baked potato fries tucked in on top, a scoop of fluffy brown rice beside it, scattered fresh chopped cilantro, two lime wedges and a small dish of yellow aji amarillo paste on a rustic wooden table, a folded linen napkin, bright natural window light, vivid red, yellow and green colors, a little steam rising, shallow depth of field, fresh and appetizing, no text, no people",
+  "cook_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, smiling as he tosses a large hot wok of lomo saltado, seared steak strips, red onion wedges and tomato wedges lifting in a lively flip with a little steam and a few flecks of sauce, a sheet pan of golden oven fries resting on the counter beside him, a cutting board with a halved red onion, Roma tomatoes, garlic cloves, a bunch of cilantro and a small jar of yellow aji amarillo paste, bright modern kitchen with white subway tiles, open wooden shelves and a sunny window, natural light, candid, sharp focus, natural hands with five fingers, no text",
+  "enjoy_prompt": "Photorealistic lifestyle photo, vertical composition: {person}, sitting at a warm wooden dinner table on a Saturday evening, laughing with his eyes crinkled as he lifts a forkful of steak, tomato and a crisp oven fry from a white plate of lomo saltado over brown rice, a second plate across from him and a small bowl of lime wedges and cilantro on the table, a glass of sparkling water with lime beside him, string lights softly blurred in the background, relaxed and happy, natural hands with five fingers, no text",
+  "hashtags": "#lomosaltado #peruvianfood #steakstirfry #30minutemeals #onepanmeal #healthydinner #saturdaynightdinner #highprotein #ovenfries #wholepersonwellness #wholenesscommunity #healthyrecipes",
+  "visuals": "photorealistic stills: hero, cook, enjoy (Canva generate-image)"
+ }
+]
